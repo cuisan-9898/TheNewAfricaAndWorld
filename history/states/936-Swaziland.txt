@@ -1,0 +1,22 @@
+state = {
+	id = 936
+	name = "STATE_936"
+	manpower = 3962157
+	state_category = city
+	
+	history = {
+		owner = SWL
+		add_core_of = SWL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = {	7900	10	}
+	}
+	
+	provinces = {
+		7900
+	}
+	local_supplies = 0.0
+}

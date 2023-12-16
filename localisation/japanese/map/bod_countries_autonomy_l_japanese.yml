@@ -1,0 +1,479 @@
+﻿l_japanese:
+##バニラ
+#アジア
+ IND_junior_partner_colony:0 "$OVERLORDADJ$領インド帝国"
+ IND_junior_partner_colony_DEF:0 "$OVERLORDADJ$領インド帝国"
+ IND_junior_partner_colony_ADJ:0 "$OVERLORDADJ$領インド"
+ 
+ INS_colony:0 "$OVERLORDADJ$領東インド諸島植民地"
+ INS_colony_DEF:0 "$OVERLORDADJ$領東インド諸島植民地"
+ INS_colony_ADJ:0 "$OVERLORDADJ$領東インド"
+ 
+ KAZ_RUS_overseas_territory:0 "$OVERLORDADJ$領ステップ"
+ KAZ_RUS_overseas_territory_DEF:0 "$OVERLORDADJ$領ステップ"
+ KAZ_RUS_overseas_territory_ADJ:0 "$OVERLORDADJ$領ステップ"
+ 
+ KOR_overseas_territory:0 "$OVERLORDADJ$領朝鮮"
+ KOR_overseas_territory_DEF:0 "$OVERLORDADJ$領朝鮮"
+ KOR_overseas_territory_ADJ:0 "$OVERLORDADJ$領朝鮮"
+
+ PHI_puppet:0 "フィリピン・コモンウェルス"
+ PHI_puppet_DEF:0 "フィリピン・コモンウェルス"
+ PHI_puppet_ADJ:0 "フィリピン"
+ 
+ SRL_colony:0 "$OVERLORDADJ$領セイロン植民地"
+ SRL_colony_DEF:0 "$OVERLORDADJ$領セイロン植民地"
+ SRL_colony_ADJ:0 "$OVERLORDADJ$領セイロン"
+ 
+#ヨーロッパ
+ MLT_colony:0 "$OVERLORDADJ$領マルタ植民地"
+ MLT_colony_DEF:0 "$OVERLORDADJ$領マルタ植民地"
+ MLT_colony_ADJ:0 "$OVERLORDADJ$領マルタ"
+ 
+#アフリカ
+ ANG_colony:0 "$OVERLORDADJ$領アンゴラ植民地"
+ ANG_colony_DEF:0 "$OVERLORDADJ$領アンゴラ植民地"
+ ANG_colony_ADJ:0 "$OVERLORDADJ$領アンゴラ"
+ 
+ BOT_protected_territory:0 "$OVERLORDADJ$領ベチュアナランド保護領"
+ BOT_protected_territory_DEF:0 "$OVERLORDADJ$領ベチュアナランド保護領"
+ BOT_protected_territory_ADJ:0 "$OVERLORDADJ$領ベチュアナランド保護領"
+ 
+ CMR_protected_territory:0 "$OVERLORDADJ$保護領カメルーン"
+ CMR_protected_territory_DEF:0 "$OVERLORDADJ$保護領カメルーン"
+ CMR_protected_territory_ADJ:0 "$OVERLORDADJ$領カメルーン"
+ 
+ COG_colony:0 "$OVERLORDADJ$領コンゴ植民地"
+ COG_colony_DEF:0 "$OVERLORDADJ$領コンゴ植民地"
+ COG_colony_ADJ:0 "$OVERLORDADJ$領コンゴ"
+
+ DJI_colony:0 "$OVERLORDADJ$領ソマリ海岸植民地"
+ DJI_colony_DEF:0 "$OVERLORDADJ$領ソマリ海岸植民地"
+ DJI_colony_ADJ:0 "$OVERLORDADJ$領ソマリ海岸"
+
+ EAF_protected_territory:0 "$OVERLORDADJ$保護領東アフリカ"
+ EAF_protected_territory_DEF:0 "$OVERLORDADJ$保護領東アフリカ"
+ EAF_protected_territory_ADJ:0 "$OVERLORDADJ$領東アフリカ"
+  
+ EGY_viceroyalty:0 "エジプト副王領"
+ EGY_viceroyalty_DEF:0 "エジプト副王領"
+ EGY_viceroyalty_ADJ:0 "$OVERLORDADJ$領エジプト"
+ 
+ EQG_colony:0 "$OVERLORDADJ$領ギニア植民地"
+ EQG_colony_DEF:0 "$OVERLORDADJ$領ギニア植民地"
+ EQG_colony_ADJ:0 "$OVERLORDADJ$領ギニア"
+ 
+ ERI_colony:0 "$OVERLORDADJ$領エリトリア植民地"
+ ERI_colony_DEF:0 "$OVERLORDADJ$領エリトリア植民地"
+ ERI_colony_ADJ:0 "$OVERLORDADJ$領エリトリア"
+ 
+ GAM_colony_and_protectorate:0 "$OVERLORDADJ$領ガンビア植民地及び保護領"
+ GAM_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領ガンビア植民地及び保護領"
+ GAM_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領ガンビア"
+ 
+ GHA_colony:0 "$OVERLORDADJ$領ゴールドコースト植民地"
+ GHA_colony_DEF:0 "$OVERLORDADJ$ゴールドコースト植民地"
+ GHA_colony_ADJ:0 "$OVERLORDADJ$領ゴールドコースト"
+ 
+ GNA_colony:0 "$OVERLORDADJ$領ギニア植民地"
+ GNA_colony_DEF:0 "$OVERLORDADJ$領ギニア植民地"
+ GNA_colony_ADJ:0 "$OVERLORDADJ$領ギニア"
+ 
+ GNB_colony:0 "$OVERLORDADJ$領ギニア植民地"
+ GNB_colony_DEF:0 "$OVERLORDADJ$領ギニア植民地"
+ GNB_colony_ADJ:0 "$OVERLORDADJ$領ギニア"
+ 
+ IVO_colony:0 "$OVERLORDADJ$領象牙海岸植民地"
+ IVO_colony_DEF:0 "$OVERLORDADJ$領象牙海岸植民地"
+ IVO_colony_ADJ:0 "$OVERLORDADJ$領象牙海岸"
+ 
+ KEN_colony_and_protectorate:0 "$OVERLORDADJ$領ケニア植民地及び保護領"
+ KEN_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領ケニア植民地及び保護領"
+ KEN_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領ケニア"
+ 
+ LBA_colony:0 "$OVERLORDADJ$領リビア植民地"
+ LBA_colony_DEF:0 "$OVERLORDADJ$領リビア植民地"
+ LBA_colony_ADJ:0 "$OVERLORDADJ$領リビア"
+ 
+ LIB_colony:0 "$OVERLORDADJ$領リべリア植民地"
+ LIB_colony_DEF:0 "$OVERLORDADJ$領リべリア植民地"
+ LIB_colony_ADJ:0 "$OVERLORDADJ$領リべリア"
+ 
+ MAD_colony:0 "$OVERLORDADJ$領アフリカインド洋諸島植民地"
+ MAD_colony_DEF:0 "$OVERLORDADJ$領アフリカインド洋諸島植民地"
+ MAD_colony_ADJ:0 "$OVERLORDADJ$領アフリカインド洋諸島"
+ 
+ MLW_protected_territory:0 "$OVERLORDADJ$保護領ニヤサランド"
+ MLW_protected_territory_DEF:0 "$OVERLORDADJ$保護領ニヤサランド"
+ MLW_protected_territory_ADJ:0 "$OVERLORDADJ$領ニヤサランド"
+ 
+ MOR_protected_territory:0 "$OVERLORDADJ$保護領モロッコ"
+ MOR_protected_territory_DEF:0 "$OVERLORDADJ$保護領モロッコ"
+ MOR_protected_territory_ADJ:0 "$OVERLORDADJ$領モロッコ"
+ 
+ MZB_colony:0 "$OVERLORDADJ$領モザンビーク植民地"
+ MZB_colony_DEF:0 "$OVERLORDADJ$領モザンビーク植民地"
+ MZB_colony_ADJ:0 "$OVERLORDADJ$領モザンビーク"
+ 
+ NGA_colony_and_protectorate:0 "$OVERLORDADJ$領ナイジェリア植民地及び保護領"
+ NGA_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領ナイジェリア植民地及び保護領"
+ NGA_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領ナイジェリア"
+ 
+ NMB_protected_territory:0 "$OVERLORDADJ$保護領南西アフリカ"
+ NMB_protected_territory_DEF:0 "$OVERLORDADJ$保護領南西アフリカ"
+ NMB_protected_territory_ADJ:0 "$OVERLORDADJ$領南西アフリカ"
+
+ RIF_protected_territory:0 "$OVERLORDADJ$保護領モロッコ"
+ RIF_protected_territory_DEF:0 "$OVERLORDADJ$保護領モロッコ"
+ RIF_protected_territory_ADJ:0 "$OVERLORDADJ$領モロッコ"
+ 
+ SAF_dominion:0 "南アフリカ連邦"
+ SAF_dominion_DEF:0 "南アフリカ連邦"
+ SAF_dominion_ADJ:0 "南アフリカ"
+  
+ SEN_colony:0 "$OVERLORDADJ$領セネガル植民地"
+ SEN_colony_DEF:0 "$OVERLORDADJ$領セネガル植民地"
+ SEN_colony_ADJ:0 "$OVERLORDADJ$領セネガル"
+ 
+ SIE_colony_and_protectorate:0 "$OVERLORDADJ$領シエラレオネ植民地及び保護領"
+ SIE_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領シエラレオネ植民地及び保護領"
+ SIE_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領シエラレオネ"
+ 
+ SMO_condominium:0 "共同統治保護領モロッコ"
+ SMO_condominium_DEF:0 "共同統治保護領モロッコ"
+ SMO_condominium_ADJ:0 "共同統治保護領モロッコ"
+
+ SOM_colony:0 "$OVERLORDADJ$領ソマリランド植民地"
+ SOM_colony_DEF:0 "$OVERLORDADJ$領ソマリランド植民地"
+ SOM_colony_ADJ:0 "$OVERLORDADJ$領ソマリランド"
+  
+ SUD_condominium:0 "デンマーク・エジプト領スーダン植民地"
+ SUD_condominium_DEF:0 "デンマーク・エジプト領スーダン植民地"
+ SUD_condominium_ADJ:0 "デンマーク・エジプト領スーダン"
+ 
+ TOG_SWE_protected_territory:0 "$OVERLORDADJ$保護領トーゴラント"
+ TOG_SWE_protected_territory_DEF:0 "$OVERLORDADJ$保護領トーゴラント"
+ TOG_SWE_protected_territory_ADJ:0 "$OVERLORDADJ$領トーゴラント"
+ 
+ TUN_protected_territory:0 "$OVERLORDADJ$保護領チュニジア"
+ TUN_protected_territory_DEF:0 "$OVERLORDADJ$保護領チュニジア"
+ TUN_protected_territory_ADJ:0 "$OVERLORDADJ$領チュニジア"
+ 
+ UGA_protected_territory:0 "$OVERLORDADJ$保護領ウガンダ"
+ UGA_protected_territory_DEF:0 "$OVERLORDADJ$保護領ウガンダ"
+ UGA_protected_territory_ADJ:0 "$OVERLORDADJ$領ウガンダ"
+ 
+ WES_colony:0 "$OVERLORDADJ$領サハラ植民地"
+ WES_colony_DEF:0 "$OVERLORDADJ$領サハラ植民地"
+ WES_colony_ADJ:0 "$OVERLORDADJ$領サハラ"
+ 
+ ZAM_protected_territory:0 "$OVERLORDADJ$保護領北ローデシア"
+ ZAM_protected_territory_DEF:0 "$OVERLORDADJ$保護領北ローデシア"
+ ZAM_protected_territory_ADJ:0 "$OVERLORDADJ$領北ローデシア"
+ 
+ ZIM_colony:0 "$OVERLORDADJ$領南ローデシア植民地"
+ ZIM_colony_DEF:0 "$OVERLORDADJ$領南ローデシア植民地"
+ ZIM_colony_ADJ:0 "$OVERLORDADJ$領南ローデシア"
+ 
+#新大陸
+ BAH_colony:0 "$OVERLORDADJ$領バハマ植民地"
+ BAH_colony_DEF:0 "$OVERLORDADJ$領バハマ植民地"
+ BAH_colony_ADJ:0 "$OVERLORDADJ$領バハマ"
+ 
+ BLZ_colony:0 "$OVERLORDADJ$領ホンジュラス植民地"
+ BLZ_colony_DEF:0 "$OVERLORDADJ$領ホンジュラス植民地"
+ BLZ_colony_ADJ:0 "$OVERLORDADJ$領ホンジュラス"
+ 
+ CAN_dominion:0 "カナダ自治領"
+ CAN_dominion_DEF:0 "カナダ自治領"
+ CAN_dominion_ADJ:0 "カナダ"
+ 
+ CAY_colony:0 "$OVERLORDADJ$領ギアナ植民地"
+ CAY_colony_DEF:0 "$OVERLORDADJ$領ギアナ植民地"
+ CAY_colony_ADJ:0 "$OVERLORDADJ$領ギアナ"
+  
+ COS_overseas_territory:0 "$OVERLORDADJ$領コスタリカ"
+ COS_overseas_territory_DEF:0 "$OVERLORDADJ$領コスタリカ"
+ COS_overseas_territory_ADJ:0 "$OVERLORDADJ$領コスタリカ"
+
+ CRC_colony:0 "$OVERLORDADJ$領キュラソー植民地"
+ CRC_colony_DEF:0 "$OVERLORDADJ$領キュラソー植民地"
+ CRC_colony_ADJ:0 "$OVERLORDADJ$領キュラソー"
+ 
+ CUB_captaincy_general:0 "キューバ総督領"
+ CUB_captaincy_general_DEF:0 "キューバ総督領"
+ CUB_captaincy_general_ADJ:0 "$OVERLORDADJ$領キューバ"
+ 
+ GYA_colony:0 "$OVERLORDADJ$領ギアナ植民地"
+ GYA_colony_DEF:0 "$OVERLORDADJ$領ギアナ植民地"
+ GYA_colony_ADJ:0 "$OVERLORDADJ$領ギアナ"
+ 
+ JAM_colony:0 "$OVERLORDADJ$領ジャマイカ植民地"
+ JAM_colony_DEF:0 "$OVERLORDADJ$領ジャマイカ植民地"
+ JAM_colony_ADJ:0 "$OVERLORDADJ$領ジャマイカ"
+ 
+ PUE_captaincy_general:0 "プエルトリコ総督領"
+ PUE_captaincy_general_DEF:0 "プエルトリコ総督領"
+ PUE_captaincy_general_ADJ:0 "$OVERLORDADJ$領プエルトリコ"
+ 
+ SUR_colony:0 "$OVERLORDADJ$領ギアナ植民地"
+ SUR_colony_DEF:0 "$OVERLORDADJ$領ギアナ植民地"
+ SUR_colony_ADJ:0 "$OVERLORDADJ$領ギアナ"
+ 
+#大洋州
+ AST_dominion:0 "オーストラリア連邦"
+ AST_dominion_DEF:0 "オーストラリア連邦"
+ AST_dominion_ADJ:0 "オーストラリア"
+ 
+ FIJ_colony:0 "$OVERLORDADJ$領フィジー植民地"
+ FIJ_colony_DEF:0 "$OVERLORDADJ$領フィジー植民地"
+ FIJ_colony_ADJ:0 "$OVERLORDADJ$領フィジー"
+ 
+ FSM_colony:0 "$OVERLORDADJ$領ミクロネシア植民地"
+ FSM_colony_DEF:0 "$OVERLORDADJ$領ミクロネシア植民地"
+ FSM_colony_ADJ:0 "$OVERLORDADJ$領ミクロネシア"
+
+ HAW_USA_overseas_territory:0 "$OVERLORDADJ$領ハワイ"
+ HAW_USA_overseas_territory_DEF:0 "$OVERLORDADJ$領ハワイ"
+ HAW_USA_overseas_territory_ADJ:0 "$OVERLORDADJ$領ハワイ"
+ 
+ KIR_colony:0 "$OVERLORDADJ$領キリバス植民地"
+ KIR_colony_DEF:0 "$OVERLORDADJ$領キリバス植民地"
+ KIR_colony_ADJ:0 "$OVERLORDADJ$領キリバス"
+ 
+ NZL_dominion:0 "ニュージーランド自治領"
+ NZL_dominion_DEF:0 "ニュージーランド自治領"
+ NZL_dominion_ADJ:0 "ニュージーランド"
+ 
+ SAM_protected_territory:0 "$OVERLORDADJ$保護領サモア"
+ SAM_protected_territory_DEF:0 "$OVERLORDADJ$保護領サモア"
+ SAM_protected_territory_ADJ:0 "$OVERLORDADJ$領サモア"
+ 
+ SOL_protected_territory:0 "$OVERLORDADJ$保護領ソロモン諸島"
+ SOL_protected_territory_DEF:0 "$OVERLORDADJ$保護領ソロモン諸島"
+ SOL_protected_territory_ADJ:0 "$OVERLORDADJ$領ソロモン諸島"
+ 
+ TAH_colony:0 "$OVERLORDADJ$領ポリネシア植民地"
+ TAH_colony_DEF:0 "$OVERLORDADJ$領ポリネシア植民地"
+ TAH_colony_ADJ:0 "$OVERLORDADJ$領ポリネシア"
+
+##追加国家
+#アジア
+ ADN_colony_and_protectorate:0 "$OVERLORDADJ$領アデン植民地及び保護領"
+ ADN_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領アデン植民地及び保護領"
+ ADN_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領アデン"
+ 
+ CCS_viceroyalty:0 "コーカサス副王領"
+ CCS_viceroyalty_DEF:0 "コーカサス副王領"
+ CCS_viceroyalty_ADJ:0 "$OVERLORDADJ$領コーカサス"
+ 
+ DLI_leased_territory:0 "$OVERLORDADJ$領大連租借地"
+ DLI_leased_territory_DEF:0 "$OVERLORDADJ$領大連租借地"
+ DLI_leased_territory_ADJ:0 "$OVERLORDADJ$領大連"
+ DLI_JAP_leased_territory:0 "$OVERLORDADJ$領関東州租借地"
+ DLI_JAP_leased_territory_DEF:0 "$OVERLORDADJ$領関東州租借地"
+ DLI_JAP_leased_territory_ADJ:0 "$OVERLORDADJ$領関東州"
+
+ GOA_colony:0 "$OVERLORDADJ$領インド植民地"
+ GOA_colony_DEF:0 "$OVERLORDADJ$領インド植民地"
+ GOA_colony_ADJ:0 "$OVERLORDADJ$領インド"
+ 
+ HKG_colony:0 "$OVERLORDADJ$領香港植民地"
+ HKG_colony_DEF:0 "$OVERLORDADJ$領香港植民地"
+ HKG_colony_ADJ:0 "$OVERLORDADJ$領香港"
+ 
+ INC_colonies_federation:0 "$OVERLORDADJ$領インドシナ連邦"
+ INC_colonies_federation_DEF:0 "$OVERLORDADJ$領インドシナ連邦"
+ INC_colonies_federation_ADJ:0 "$OVERLORDADJ$領インドシナ"
+ 
+ KFT_overseas_territory:0 "$OVERLORDADJ$領樺太"
+ KFT_overseas_territory_DEF:0 "$OVERLORDADJ$領樺太"
+ KFT_overseas_territory_ADJ:0 "$OVERLORDADJ$領樺太"
+ 
+ MCA_colony:0 "$OVERLORDADJ$領マカオ植民地"
+ MCA_colony_DEF:0 "$OVERLORDADJ$領マカオ植民地"
+ MCA_colony_ADJ:0 "$OVERLORDADJ$領マカオ"
+ 
+ PUD_colony:0 "$OVERLORDADJ$領インド植民地"
+ PUD_colony_DEF:0 "$OVERLORDADJ$領インド植民地"
+ PUD_colony_ADJ:0 "$OVERLORDADJ$領インド"
+ 
+ QIN_leased_territory:0 "$OVERLORDADJ$領膠州湾租借地"
+ QIN_leased_territory_DEF:0 "$OVERLORDADJ$領膠州湾租借地"
+ QIN_leased_territory_ADJ:0 "$OVERLORDADJ$領膠州湾"
+ 
+ SAB_protected_territory:0 "$OVERLORDADJ$保護領北ボルネオ"
+ SAB_protected_territory_DEF:0 "$OVERLORDADJ$保護領北ボルネオ"
+ SAB_protected_territory_ADJ:0 "$OVERLORDADJ$領北ボルネオ"
+  
+ SHA_leased_territory:0 "$OVERLORDADJ$領上海租界地"
+ SHA_leased_territory_DEF:0 "$OVERLORDADJ$領上海租界地"
+ SHA_leased_territory_ADJ:0 "$OVERLORDADJ$領上海"
+
+ SIN_colony:0 "$OVERLORDADJ$領海峡植民地"
+ SIN_colony_DEF:0 "$OVERLORDADJ$領海峡植民地"
+ SIN_colony_ADJ:0 "$OVERLORDADJ$領海峡"
+ 
+ TLS_colony:0 "$OVERLORDADJ$領ティモール植民地"
+ TLS_colony_DEF:0 "$OVERLORDADJ$領ティモール植民地"
+ TLS_colony_ADJ:0 "$OVERLORDADJ$領ティモール"
+ 
+ TRK_overseas_territory:0 "$OVERLORDADJ$領トルキスタン"
+ TRK_overseas_territory_DEF:0 "$OVERLORDADJ$領トルキスタン"
+ TRK_overseas_territory_ADJ:0 "$OVERLORDADJ$領トルキスタン"
+ 
+ TWN_overseas_territory:0 "$OVERLORDADJ$領台湾"
+ TWN_overseas_territory_DEF:0 "$OVERLORDADJ$領台湾"
+ TWN_overseas_territory_ADJ:0 "$OVERLORDADJ$領台湾"
+ 
+#ヨーロッパ
+ CYP_colony:0 "$OVERLORDADJ$領キプロス植民地"
+ CYP_colony_DEF:0 "$OVERLORDADJ$領キプロス植民地"
+ CYP_colony_ADJ:0 "$OVERLORDADJ$領キプロス"
+ 
+ GIB_colony:0 "$OVERLORDADJ$領ジブラルタル植民地"
+ GIB_colony_DEF:0 "$OVERLORDADJ$領ジブラルタル植民地"
+ GIB_colony_ADJ:0 "$OVERLORDADJ$領ジブラルタル"
+ 
+#アフリカ
+ CPV_colony:0 "$OVERLORDADJ$領カーボベルデ植民地"
+ CPV_colony_DEF:0 "$OVERLORDADJ$領カーボベルデ植民地"
+ CPV_colony_ADJ:0 "$OVERLORDADJ$領カーボベルデ"
+ 
+ EQA_colony:0 "$OVERLORDADJ$領赤道アフリカ植民地"
+ EQA_colony_DEF:0 "$OVERLORDADJ$領赤道アフリカ植民地"
+ EQA_colony_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
+  
+ JUB_colony:0 "$OVERLORDADJ$領ジュバランド植民地"
+ JUB_colony_DEF:0 "$OVERLORDADJ$領ジュバランド植民地"
+ JUB_colony_ADJ:0 "$OVERLORDADJ$領ジュバランド"
+ 
+ LSO_colony:0 "$OVERLORDADJ$領バストランド植民地"
+ LSO_colony_DEF:0 "$OVERLORDADJ$領バストランド植民地"
+ LSO_colony_ADJ:0 "$OVERLORDADJ$領バストランド"
+ 
+ MUS_colony:0 "$OVERLORDADJ$領モーリシャス植民地"
+ MUS_colony_DEF:0 "$OVERLORDADJ$領モーリシャス植民地"
+ MUS_colony_ADJ:0 "$OVERLORDADJ$領モーリシャス"
+ 
+ SCZ_leased_territory:0 "$OVERLORDADJ$領スエズ運河租借地"
+ SCZ_leased_territory_DEF:0 "$OVERLORDADJ$領スエズ運河租借地"
+ SCZ_leased_territory_ADJ:0 "$OVERLORDADJ$領スエズ運河"
+ 
+ SSD_autonomous_puppet:0 "$OVERLORDADJ$領南スーダン自治区"
+ SSD_autonomous_puppet_DEF:0 "$OVERLORDADJ$領南スーダン自治区"
+ SSD_autonomous_puppet_ADJ:0 "$OVERLORDADJ$領南スーダン"
+ 
+ STP_colony:0 "$OVERLORDADJ$領サントメ及びプリンシペ植民地"
+ STP_colony_DEF:0 "$OVERLORDADJ$領サントメ及びプリンシペ植民地"
+ STP_colony_ADJ:0 "$OVERLORDADJ$領サントメ及びプリンシペ"
+ 
+ SWL_protected_territory:0 "$OVERLORDADJ$保護領スワジランド"
+ SWL_protected_territory_DEF:0 "$OVERLORDADJ$保護領スワジランド"
+ SWL_protected_territory_ADJ:0 "$OVERLORDADJ$保護領スワジランド"
+ 
+ SYC_colony:0 "$OVERLORDADJ$領セーシェル植民地"
+ SYC_colony_DEF:0 "$OVERLORDADJ$領セーシェル植民地"
+ SYC_colony_ADJ:0 "$OVERLORDADJ$領セーシェル"
+ 
+ WAF_colony:0 "$OVERLORDADJ$領西アフリカ植民地"
+ WAF_colony_DEF:0 "$OVERLORDADJ$領西アフリカ植民地"
+ WAF_colony_ADJ:0 "$OVERLORDADJ$領西アフリカ"
+ 
+#新大陸
+ ALS_colony:0 "$OVERLORDADJ$領アラスカ"
+ ALS_colony_DEF:0 "$OVERLORDADJ$領アラスカ"
+ ALS_colony_ADJ:0 "$OVERLORDADJ$領アラスカ"
+
+ BMU_colony:0 "$OVERLORDADJ$領バミューダ植民地"
+ BMU_colony_DEF:0 "$OVERLORDADJ$領バミューダ植民地"
+ BMU_colony_ADJ:0 "$OVERLORDADJ$領バミューダ"
+ 
+ GDL_colony:0 "$OVERLORDADJ$領グアドループ植民地"
+ GDL_colony_DEF:0 "$OVERLORDADJ$領グアドループ植民地"
+ GDL_colony_ADJ:0 "$OVERLORDADJ$領グアドループ"
+ 
+ GRL_colony:0 "$OVERLORDADJ$領グリーンランド"
+ GRL_colony_DEF:0 "$OVERLORDADJ$領グリーンランド"
+ GRL_colony_ADJ:0 "$OVERLORDADJ$領グリーンランド"
+ 
+ LEW_colonies_federation:0 "$OVERLORDADJ$領リーワード諸島連邦"
+ LEW_colonies_federation_DEF:0 "$OVERLORDADJ$領リーワード諸島連邦"
+ LEW_colonies_federation_ADJ:0 "$OVERLORDADJ$領リーワード諸島"
+ 
+ NFL_dominion:0 "ニューファンドランド自治領"
+ NFL_dominion_DEF:0 "ニューファンドランド自治領"
+ NFL_dominion_ADJ:0 "ニューファンドランド"
+ 
+ SPM_colony:0 "$OVERLORDADJ$領サンピエール島及びミクロン島植民地"
+ SPM_colony_DEF:0 "$OVERLORDADJ$領サンピエール島及びミクロン島植民地"
+ SPM_colony_ADJ:0 "$OVERLORDADJ$領サンピエール・ミクロン"
+ 
+ STH_colony:0 "$OVERLORDADJ$領セントヘレナ植民地"
+ STH_colony_DEF:0 "$OVERLORDADJ$領セントヘレナ植民地"
+ STH_colony_ADJ:0 "$OVERLORDADJ$領セントヘレナ"
+ 
+ WIW_colonies_federation:0 "$OVERLORDADJ$領ウィンドワード諸島連邦"
+ WIW_colonies_federation_DEF:0 "$OVERLORDADJ$領ウィンドワード諸島連邦"
+ WIW_colonies_federation_ADJ:0 "$OVERLORDADJ$領ウィンドワード諸島"
+ 
+#大洋州
+ GUM_overseas_territory:0 "$OVERLORDADJ$領グアム"
+ GUM_overseas_territory_DEF:0 "$OVERLORDADJ$領グアム"
+ GUM_overseas_territory_ADJ:0 "$OVERLORDADJ$領グアム"
+ 
+ MHL_colony:0 "$OVERLORDADJ$領マーシャル諸島植民地"
+ MHL_colony_DEF:0 "$OVERLORDADJ$領マーシャル諸島植民地"
+ MHL_colony_ADJ:0 "$OVERLORDADJ$領マーシャル諸島"
+ 
+ NCL_colony:0 "$OVERLORDADJ$領ニューカレドニア植民地"
+ NCL_colony_DEF:0 "$OVERLORDADJ$領ニューカレドニア植民地"
+ NCL_colony_ADJ:0 "$OVERLORDADJ$領ニューカレドニア"
+ 
+ NGU_protected_territory:0 "$OVERLORDADJ$保護領ニューギニア"
+ NGU_protected_territory_DEF:0 "$OVERLORDADJ$保護領ニューギニア"
+ NGU_protected_territory_ADJ:0 "$OVERLORDADJ$領ニューギニア"
+ 
+ PAP_overseas_territory:0 "$OVERLORDADJ$領パプア"
+ PAP_overseas_territory_DEF:0 "$OVERLORDADJ$領パプア"
+ PAP_overseas_territory_ADJ:0 "$OVERLORDADJ$領パプア"
+ 
+ PCN_colony:0 "$OVERLORDADJ$領ピトケアン、ヘンダーソン、デュシー及びオエノ諸島植民地"
+ PCN_colony_DEF:0 "$OVERLORDADJ$領ピトケアン、ヘンダーソン、デュシー及びオエノ諸島植民地"
+ PCN_colony_ADJ:0 "$OVERLORDADJ$領ピトケアン、ヘンダーソン、デュシー及びオエノ諸島"
+  
+ SAI_overseas_territory:0 "$OVERLORDADJ$領北マリアナ諸島"
+ SAI_overseas_territory_DEF:0 "$OVERLORDADJ$領北マリアナ諸島"
+ SAI_overseas_territory_ADJ:0 "$OVERLORDADJ$領北マリアナ諸島"
+  
+ TVL_condominium:0 "共同統治領エリス諸島"
+ TVL_condominium_DEF:0 "共同統治領エリス諸島"
+ TVL_condominium_ADJ:0 "共同統治領エリス諸島"
+ 
+##コズメティックタグ
+#アジア
+
+#ヨーロッパ
+ BOSandHRZ_AUS_condominium:0 "ボスニア及びヘルツェゴヴィナ共同統治領"
+ BOSandHRZ_AUS_condominium_DEF:0 "ボスニア及びヘルツェゴヴィナ共同統治領"
+ BOSandHRZ_AUS_condominium_ADJ:0 "ボスニア・ヘルツェゴヴィナ"
+ 
+ FIN_grand_duchy_RUS_junior_partner_state:0 "フィンランド大公国"
+ FIN_grand_duchy_RUS_junior_partner_state_DEF:0 "フィンランド大公国"
+ FIN_grand_duchy_RUS_junior_partner_state_ADJ:0 "フィンランド"
+ 
+#アフリカ
+ RHO_SAF_company_GBRandIREbyENG_colony:0 "イギリス南アフリカ会社統治領ローデシア"
+ RHO_SAF_company_GBRandIREbyENG_colony_DEF:0 "イギリス南アフリカ会社統治領ローデシア"
+ RHO_SAF_company_GBRandIREbyENG_colony_ADJ:0 "英南ア会社領ローデシア"
+ 
+#新大陸
+ 
+ TRIandTOB_GBRandIREbyENG_colony:0 "$OVERLORDADJ$領トリニダード及びトバゴ植民地"
+ TRIandTOB_GBRandIREbyENG_colony_DEF:0 "$OVERLORDADJ$領トリニダード及びトバゴ植民地"
+ TRIandTOB_GBRandIREbyENG_colony_ADJ:0 "$OVERLORDADJ$領トリニダード及びトバゴ"
+ 
+#大洋州
+ KIRandTVL_GBRandIREbyENG_colony:0 "$OVERLORDADJ$領ギルバート及びエリス諸島植民地"
+ KIRandTVL_GBRandIREbyENG_colony_DEF:0 "$OVERLORDADJ$領ギルバート及びエリス諸島植民地"
+ KIRandTVL_GBRandIREbyENG_colony_ADJ:0 "$OVERLORDADJ$領ギルバート・エリス諸島"

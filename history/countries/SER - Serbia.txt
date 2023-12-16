@@ -1,0 +1,4 @@
+capital = 107
+
+set_cosmetic_tag = SER_kingdom
+set_dictatorship = yes

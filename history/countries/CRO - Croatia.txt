@@ -1,0 +1,4 @@
+capital = 109
+
+set_cosmetic_tag = CROandSLNandDAL_triune_kingdom
+set_dictatorship = yes

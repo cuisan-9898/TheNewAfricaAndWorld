@@ -1,0 +1,4 @@
+﻿capital = 596
+
+set_cosmetic_tag = JGS_military_clique
+set_dictatorship = yes

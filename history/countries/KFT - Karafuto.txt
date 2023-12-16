@@ -1,0 +1,4 @@
+capital = 537
+
+set_cosmetic_tag = KFT_JAP
+set_dictatorship = yes

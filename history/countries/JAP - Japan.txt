@@ -1,0 +1,16 @@
+capital = 282
+
+set_cosmetic_tag = GREATERJAPAN_empire
+set_dictatorship = yes
+
+
+set_autonomy = {	target = MAN	autonomous_state = puppet	}
+
+set_autonomy = {	target = KFT	autonomous_state = overseas_territory	}
+set_autonomy = {	target = KOR	autonomous_state = overseas_territory	}
+set_autonomy = {	target = SAI	autonomous_state = overseas_territory	}
+set_autonomy = {	target = TWN	autonomous_state = overseas_territory	}
+set_autonomy = {	target = DLI	autonomous_state = leased_territory	}
+set_autonomy = {	target = QIN	autonomous_state = leased_territory	}
+set_autonomy = {	target = SOL	autonomous_state = protected_territory	}
+set_autonomy = {	target = DJI	autonomous_state = colony	}

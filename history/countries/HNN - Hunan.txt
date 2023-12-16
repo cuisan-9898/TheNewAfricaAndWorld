@@ -1,0 +1,4 @@
+﻿capital = 602
+
+set_cosmetic_tag = HNN_military_clique
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 463
+
+set_cosmetic_tag = ALS_AMERIKA
+set_dictatorship = yes

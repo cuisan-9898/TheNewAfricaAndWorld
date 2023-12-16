@@ -1,0 +1,4 @@
+capital = 911
+
+set_cosmetic_tag = MCO_principality
+set_dictatorship = yes

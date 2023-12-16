@@ -1,0 +1,4 @@
+capital = 328
+
+set_cosmetic_tag = FNG_military_clique
+set_dictatorship = yes

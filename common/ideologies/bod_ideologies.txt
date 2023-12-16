@@ -1,0 +1,140 @@
+ideologies = {
+	right_democracy = {
+		types = {
+			conservatism = {}
+			liberalism = {}
+			
+		}
+		dynamic_faction_names = {
+		}
+		color = { 17 17 136 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_guarantee_other_ideologies = no
+			can_only_justify_war_on_threat_country = yes
+			can_join_factions = no
+		}
+		can_host_government_in_exile = yes
+		modifiers = {
+			generate_wargoal_tension = 0.6
+			join_faction_tension = 0.8
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.5
+			guarantee_tension = 0
+		}
+	}
+	left_democracy = {
+		types = {
+			social_liberalism = {}
+			social_democracy = {}
+		}
+		dynamic_faction_names = {
+		}
+		color = { 244 59 52 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_guarantee_other_ideologies = yes
+			can_only_justify_war_on_threat_country = no
+			can_join_factions = no
+		}
+		can_host_government_in_exile = no
+		modifiers = {
+			
+		}
+	}
+	center_democracy = {
+		types = {
+			one_perty_despotism = {}
+			islamic_fundamentalism = {}
+		}
+		dynamic_faction_names = {
+		}
+		color = { 216 217 217 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_join_factions = no
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = no
+
+		}
+		can_host_government_in_exile = yes
+		modifiers = {
+			generate_wargoal_tension = 0.4
+			join_faction_tension = 0.4
+			lend_lease_Tension = 0.25
+			send_volunteers_tension = 0.3
+			guarantee_tension = 0.4
+		}
+	}
+	right_totalitarianism = {
+		types = {
+		nazism ={}
+		islamic_fascism = {}
+		}
+		dynamic_faction_names = {
+		}
+		color = { 131 96 24 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_join_factions = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+
+		}
+		can_host_government_in_exile = no
+		modifiers = {
+		}
+	}
+	left_totalitarianism = {
+		types = {
+		socialist_anarchism = {}
+		}
+		dynamic_faction_names = {
+		}
+		color = { 240 0 9 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_join_factions = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+
+		}
+		can_host_government_in_exile = no
+		modifiers = {
+		}
+	}
+	authoritarianism = {
+		types = {
+			despotism = {}
+		}
+		dynamic_faction_names = {
+			
+		}
+		color = { 64 61 61 }
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+			can_join_factions = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+		modifiers = {
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.6
+			lend_lease_tension = 0.2
+			send_volunteers_tension = 0.3
+		}
+		can_host_government_in_exile = yes
+	}
+}

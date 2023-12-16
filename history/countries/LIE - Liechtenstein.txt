@@ -1,0 +1,4 @@
+capital = 913
+
+set_cosmetic_tag = LIE_principality
+set_dictatorship = yes

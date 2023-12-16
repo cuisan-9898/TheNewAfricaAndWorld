@@ -1,0 +1,4 @@
+capital = 312
+
+set_cosmetic_tag = HON_republic
+set_dictatorship = yes

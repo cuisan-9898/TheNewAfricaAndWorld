@@ -1,0 +1,19 @@
+state = {
+	id = 943
+	name = "STATE_943"
+	manpower = 20132
+	state_category = pastoral
+	
+	history = {
+		owner = MSC
+		add_core_of = MSC
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13263
+	}
+	local_supplies = 0.0
+}

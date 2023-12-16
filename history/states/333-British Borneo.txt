@@ -1,0 +1,24 @@
+state = {
+	id = 333
+	name = "STATE_333"
+	manpower = 889800
+	state_category = rural
+	
+	resources = {
+		rubber = 40
+		oil = 12
+	}
+	
+	history = {
+		owner = SAB
+		add_core_of = SAB
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1306	4282	4338	7358	10143	10199	10212	10240	12171	12186	12228
+	}
+	local_supplies = 0.0
+}

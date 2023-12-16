@@ -1,0 +1,4 @@
+capital = 686
+
+set_cosmetic_tag = COUNTRY_LEW
+set_dictatorship = yes

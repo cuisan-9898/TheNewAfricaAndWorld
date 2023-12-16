@@ -1,0 +1,4 @@
+capital = 292
+
+set_cosmetic_tag = NEJDandHASA_emirate
+set_dictatorship = yes

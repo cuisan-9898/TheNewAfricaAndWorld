@@ -1,0 +1,4 @@
+capital = 231
+
+set_cosmetic_tag = COUNTRY_RUS
+set_dictatorship = yes

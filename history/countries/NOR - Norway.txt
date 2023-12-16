@@ -1,0 +1,7 @@
+capital = 110
+
+set_cosmetic_tag = NOR_kingdom
+set_dictatorship = yes
+
+set_autonomy = {	target = IVO	autonomous_state = colony	}
+set_autonomy = {	target = MAD	autonomous_state = colony	}

@@ -1,0 +1,4 @@
+capital = 266
+
+set_cosmetic_tag = IRAN_imperial_state
+set_dictatorship = yes

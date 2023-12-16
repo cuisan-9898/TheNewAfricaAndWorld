@@ -1,0 +1,4 @@
+capital = 547
+
+set_cosmetic_tag = COUNTRY_ALB
+set_dictatorship = yes

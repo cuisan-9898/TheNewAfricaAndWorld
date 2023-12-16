@@ -1,0 +1,4 @@
+capital = 118
+
+set_cosmetic_tag = GIB_GBRandIREbyENG
+set_dictatorship = yes

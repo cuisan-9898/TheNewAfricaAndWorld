@@ -1,0 +1,3 @@
+capital = 78
+set_cosmetic_tag = MOL_republic
+set_dictatorship = yes

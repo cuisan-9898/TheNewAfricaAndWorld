@@ -1,0 +1,4 @@
+capital = 857
+
+set_cosmetic_tag = JABALSHAMMAR_emirate
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 543
+
+set_cosmetic_tag = COUNTRY_NOR
+set_dictatorship = yes

@@ -1,0 +1,22 @@
+state = {
+	id = 556
+	name = "STATE_556"
+	manpower = 3324782
+	buildings_max_level_factor = 1
+	state_category = rural
+	
+	history = {
+		owner = WAF
+		add_core_of = WAF
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {	4927	1	}
+	}
+	
+	provinces = {
+		4927	5045	8116	10812	12751	12794	12838
+	}
+	local_supplies = 2.0
+}

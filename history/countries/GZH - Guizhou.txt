@@ -1,0 +1,4 @@
+﻿capital = 984
+
+set_cosmetic_tag = GZH_military_clique
+set_dictatorship = yes

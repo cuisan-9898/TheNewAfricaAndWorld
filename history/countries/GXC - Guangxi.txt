@@ -1,0 +1,4 @@
+capital = 594
+
+set_cosmetic_tag = GXC_military_clique
+set_dictatorship = yes

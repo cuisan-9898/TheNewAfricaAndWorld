@@ -1,0 +1,21 @@
+state = {
+	id = 920
+	name = "STATE_920"
+	manpower = 35000
+	state_category = rural
+	
+	history = {
+		owner = BRN
+		add_core_of = BRN
+		buildings = {
+			infrastructure = 2
+			7371 = {	naval_base = 2	}
+		}
+		victory_points = {	7371	1	}
+	}
+	
+	provinces = {
+		7371	7387
+	}
+	local_supplies = 0.0
+}

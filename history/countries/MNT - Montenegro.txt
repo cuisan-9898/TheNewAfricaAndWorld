@@ -1,0 +1,4 @@
+capital = 105
+
+set_cosmetic_tag = MNT_kingdom
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 689
+
+set_cosmetic_tag = JAM_GBRandIREbyENG
+set_dictatorship = yes

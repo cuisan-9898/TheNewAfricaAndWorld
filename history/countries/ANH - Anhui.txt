@@ -1,0 +1,4 @@
+﻿capital = 606
+
+set_cosmetic_tag = ANH_military_clique
+set_dictatorship = yes

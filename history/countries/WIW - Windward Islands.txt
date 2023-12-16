@@ -1,0 +1,4 @@
+capital = 692
+
+set_cosmetic_tag = WIW_GBRandIREbyENG
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 557
+
+set_cosmetic_tag = COUNTRY_NTL
+set_dictatorship = yes

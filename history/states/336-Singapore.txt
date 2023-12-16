@@ -1,0 +1,22 @@
+state = {
+	id = 336
+	name = "STATE_336"
+	manpower = 28900
+	state_category = large_town
+	
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+			12299 = {	naval_base = 8	}
+			12299 = {	coastal_bunker = 3	}
+		}
+		victory_points = {	12299	10	}
+	}
+	
+	provinces = {
+		12299
+	}
+	local_supplies = 0.0
+}

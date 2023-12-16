@@ -1,0 +1,4 @@
+capital = 315
+
+set_cosmetic_tag = CUB_state
+set_dictatorship = yes

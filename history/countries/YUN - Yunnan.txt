@@ -1,0 +1,4 @@
+capital = 325
+
+set_cosmetic_tag = YUN_military_clique
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 919
+
+set_cosmetic_tag = SKM_kingdom
+set_dictatorship = yes

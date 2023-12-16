@@ -1,0 +1,2 @@
+capital = 844
+set_cosmetic_tag = COUNTRY_GBRandIREbyENG

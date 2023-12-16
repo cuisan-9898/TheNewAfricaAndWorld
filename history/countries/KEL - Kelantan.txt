@@ -1,0 +1,4 @@
+capital = 933
+
+set_cosmetic_tag = KEL_sultanate
+set_dictatorship = yes

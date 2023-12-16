@@ -1,0 +1,38 @@
+
+state={
+	id=110
+	name="STATE_110"
+
+	history={
+		victory_points = {
+			6115 13 
+		}
+		victory_points = {
+			11151 2 
+		}
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 4
+			6115 = {
+				naval_base = 6
+				coastal_bunker = 3
+
+			}
+
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		14 27 144 3007 3021 3171 6042 6115 9103 9135 9157 11028 11078 11135 11151 11184 
+	}
+	manpower=1057185
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

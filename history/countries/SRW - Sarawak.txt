@@ -1,0 +1,4 @@
+capital = 921
+
+set_cosmetic_tag = SRW_raj
+set_dictatorship = yes

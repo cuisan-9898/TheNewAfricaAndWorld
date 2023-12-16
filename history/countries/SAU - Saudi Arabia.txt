@@ -1,0 +1,3 @@
+capital = 292
+set_cosmetic_tag = SAU_kingdom
+set_dictatorship = yes

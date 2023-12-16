@@ -1,0 +1,4 @@
+capital = 281
+
+set_cosmetic_tag = MLD_sultanate
+set_dictatorship = yes

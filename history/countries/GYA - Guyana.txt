@@ -1,0 +1,4 @@
+capital = 687
+
+set_cosmetic_tag = COUNTRY_DEN
+set_dictatorship = yes

@@ -1,0 +1,6 @@
+capital = 797
+
+set_cosmetic_tag = OTT_sublime_state
+set_dictatorship = yes
+
+EGY = {	set_country_flag = viceroyalty_flag	}

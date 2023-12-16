@@ -1,0 +1,4 @@
+capital = 696
+
+set_cosmetic_tag = BMU_GBRandIREbyENG
+set_dictatorship = yes

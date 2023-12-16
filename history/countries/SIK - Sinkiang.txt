@@ -1,0 +1,4 @@
+capital = 617
+
+set_cosmetic_tag = SIK_military_clique
+set_dictatorship = yes

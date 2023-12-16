@@ -1,0 +1,24 @@
+state = {
+	id = 8
+	name = "STATE_8"
+	manpower = 294748
+	state_category = town
+	
+	resources = {	steel = 5	}
+	
+	history = {
+		owner = LUX
+		add_core_of = LUX
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		victory_points = {	6583	5	}
+	}
+	
+	provinces = {
+		6583
+	}
+	local_supplies = 0.0
+}

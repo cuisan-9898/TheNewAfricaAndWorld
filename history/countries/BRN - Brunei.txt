@@ -1,0 +1,4 @@
+capital = 920
+
+set_cosmetic_tag = BRN_sultanate
+set_dictatorship = yes

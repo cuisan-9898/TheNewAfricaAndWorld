@@ -1,0 +1,4 @@
+capital = 932
+
+set_cosmetic_tag = TER_sultanate
+set_dictatorship = yes

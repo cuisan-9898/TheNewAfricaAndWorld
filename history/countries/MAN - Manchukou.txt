@@ -1,0 +1,3 @@
+capital = 328
+set_cosmetic_tag = MANCHUKUO_empire
+set_dictatorship = yes

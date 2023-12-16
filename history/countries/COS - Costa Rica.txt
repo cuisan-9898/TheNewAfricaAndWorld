@@ -1,0 +1,4 @@
+capital = 316
+
+set_cosmetic_tag = COUNTRY_PAN
+set_dictatorship = yes

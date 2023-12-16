@@ -1,0 +1,3 @@
+capital = 780
+set_cosmetic_tag = COUNTRY_YUG
+set_dictatorship = yes

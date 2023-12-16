@@ -1,0 +1,3 @@
+capital = 183
+set_cosmetic_tag = CYP_UK
+set_dictatorship = yes

@@ -1,0 +1,20 @@
+state = {
+	id = 942
+	name = "STATE_942"
+	manpower = 5100
+	state_category = pastoral
+	
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {	13264	1	}
+	}
+	
+	provinces = {
+		13264
+	}
+	local_supplies = 0.0
+}

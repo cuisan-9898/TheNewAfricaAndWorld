@@ -1,0 +1,4 @@
+capital = 765
+
+set_cosmetic_tag = QAT_emirate
+set_dictatorship = yes

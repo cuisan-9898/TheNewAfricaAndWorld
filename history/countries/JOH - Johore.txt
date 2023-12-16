@@ -1,0 +1,4 @@
+capital = 927
+
+set_cosmetic_tag = JOH_sultanate
+set_dictatorship = yes

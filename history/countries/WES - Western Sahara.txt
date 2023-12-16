@@ -1,0 +1,4 @@
+capital = 699
+
+set_cosmetic_tag = SPR_kingdom
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 926
+
+set_cosmetic_tag = PRL_sultanate
+set_dictatorship = yes

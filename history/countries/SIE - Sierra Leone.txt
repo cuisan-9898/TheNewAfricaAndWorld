@@ -1,0 +1,4 @@
+capital = 700
+
+set_cosmetic_tag = COUNTRY_IRE
+set_dictatorship = yes

@@ -1,0 +1,4 @@
+capital = 545
+
+set_cosmetic_tag = RHO_SAF_company_GBRandIREbyENG
+set_dictatorship = yes

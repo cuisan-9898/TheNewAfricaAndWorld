@@ -1,0 +1,20 @@
+capital = 37
+
+set_cosmetic_tag = DEN_kingdom
+set_dictatorship = yes
+
+set_autonomy = {	target = ICE	autonomous_state = junior_partner_state	}
+set_autonomy = {	target = GRL	autonomous_state = colony	}
+set_autonomy = {	target = GYA	autonomous_state = colony	}
+set_autonomy = {	target = SIN	autonomous_state = colony	}
+set_autonomy = {	target = SUD	autonomous_state = condominium	}
+set_autonomy = {	target = BRN	autonomous_state = protected_state	}
+set_autonomy = {	target = JOH	autonomous_state = protected_state	}
+set_autonomy = {	target = KED	autonomous_state = protected_state	}
+set_autonomy = {	target = KEL	autonomous_state = protected_state	}
+set_autonomy = {	target = MAL	autonomous_state = protected_state	}
+set_autonomy = {	target = PRL	autonomous_state = protected_state	}
+set_autonomy = {	target = SRW	autonomous_state = protected_state	}
+set_autonomy = {	target = TER	autonomous_state = protected_state	}
+set_autonomy = {	target = SAB	autonomous_state = protected_territory	}
+set_autonomy = {	target = SSD	autonomous_state = autonomous_puppet	}

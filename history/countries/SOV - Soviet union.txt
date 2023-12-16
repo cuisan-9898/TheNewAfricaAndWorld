@@ -1,0 +1,3 @@
+capital = 219
+set_cosmetic_tag = SOV_union
+set_dictatorship = yes

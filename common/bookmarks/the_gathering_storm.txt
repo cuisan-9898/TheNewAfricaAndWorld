@@ -1,0 +1,57 @@
+bookmarks = {
+	bookmark = {
+		name = ""
+		desc = ""
+		date = 1936.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"ITA"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"JAP"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"GBR"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"GER"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"SOV"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"FRA"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"AUS"={
+			history = ""
+			ideology = right_democracy
+			# ideas = {}
+			focuses = {}
+		}
+		"---"={
+			history = "COUNTRY_start_desc"
+		}
+		effect = {	randomize_weather = 22345	}
+	}
+}

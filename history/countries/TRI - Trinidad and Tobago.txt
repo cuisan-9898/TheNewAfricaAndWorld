@@ -1,0 +1,4 @@
+capital = 691
+
+set_cosmetic_tag = TRIandTOB_GBRandIREbyENG
+set_dictatorship = yes

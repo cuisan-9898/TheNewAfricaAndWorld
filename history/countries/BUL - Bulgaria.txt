@@ -1,0 +1,4 @@
+capital = 48
+
+set_cosmetic_tag = BUL_tsardom
+set_dictatorship = yes

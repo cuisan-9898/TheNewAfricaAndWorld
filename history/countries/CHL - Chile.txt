@@ -1,0 +1,4 @@
+capital = 279
+
+set_cosmetic_tag = CHL_republic
+set_dictatorship = yes

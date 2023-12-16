@@ -1,0 +1,4 @@
+﻿capital = 709
+
+set_cosmetic_tag = COUNTRY_GRE
+set_dictatorship = yes

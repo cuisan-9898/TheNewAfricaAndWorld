@@ -1,0 +1,6 @@
+capital = 285
+
+set_cosmetic_tag = AST_GBRandIREbyENG
+set_dictatorship = yes
+
+set_autonomy = {	target = PAP	autonomous_state = overseas_territory	}

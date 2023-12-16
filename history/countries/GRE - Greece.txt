@@ -1,0 +1,5 @@
+capital = 47
+
+set_cosmetic_tag = GRE_kingdom
+set_dictatorship = yes
+set_autonomy = {	target = SYC	autonomous_state = colony	}

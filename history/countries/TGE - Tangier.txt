@@ -1,0 +1,4 @@
+﻿capital = 914
+
+set_cosmetic_tag = TGE_international_zone
+set_dictatorship = yes

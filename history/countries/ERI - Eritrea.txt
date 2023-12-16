@@ -1,0 +1,3 @@
+capital = 550
+set_cosmetic_tag = COUNTRY_ITAbySRD_kingdom
+set_dictatorship = yes

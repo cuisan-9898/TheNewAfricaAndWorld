@@ -1,0 +1,21 @@
+state = {
+	id = 781
+	name = "STATE_781"
+	manpower = 543817
+	state_category = pastoral
+	
+	history = {
+		owner = WAF
+		add_core_of = WAF
+		add_core_of = NGE
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {	2056	1	}
+	}
+	
+	provinces = {
+		1975	2056	12707
+	}
+	local_supplies = 0.0
+}

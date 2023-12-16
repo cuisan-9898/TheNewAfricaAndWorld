@@ -1,0 +1,2 @@
+capital = 70
+set_dictatorship = yes

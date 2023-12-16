@@ -1,0 +1,24 @@
+state = {
+	id = 446
+	name = "STATE_446"
+	manpower = 131732
+	buildings_max_level_factor = 1
+	state_category = wasteland
+	
+	history = {
+		owner = SCZ
+		add_core_of = SCZ
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+			12049 = {	naval_base = 2	}
+		}
+		victory_points = {	4073	3	}
+		victory_points = {	12049	5	}
+	}
+	
+	provinces = {
+		1155	4073	9947	12049
+	}
+	local_supplies = 0.0
+}

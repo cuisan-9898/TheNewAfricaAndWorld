@@ -1,0 +1,5 @@
+capital = 113
+set_dictatorship = yes
+set_autonomy = {	target = GAM	autonomous_state = colony_and_protectorate	}
+set_autonomy = {	target = SIE	autonomous_state = colony_and_protectorate	}
+set_autonomy = {	target = GNB	autonomous_state = colony	}

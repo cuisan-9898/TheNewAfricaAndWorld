@@ -1,0 +1,4 @@
+capital = 294
+
+set_cosmetic_tag = OMA_imamate
+set_dictatorship = yes

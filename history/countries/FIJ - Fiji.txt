@@ -1,0 +1,4 @@
+capital = 636
+
+set_cosmetic_tag = FIJ_GBRandIREbyENG
+set_dictatorship = yes

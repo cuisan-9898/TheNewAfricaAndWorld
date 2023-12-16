@@ -1,0 +1,57 @@
+capital = 126
+
+set_cosmetic_tag = GBRandIREbyENG_united_kingdom
+set_dictatorship = yes
+
+LEW = {	set_country_flag = federal_flag	}
+WIW = {	set_country_flag = federal_flag	}
+ADN = {	set_country_flag = protectorate_flag	}
+GAM = {	set_country_flag = protectorate_flag	}
+KEN = {	set_country_flag = protectorate_flag	}
+NGA = {	set_country_flag = protectorate_flag	}
+SIE = {	set_country_flag = protectorate_flag	}
+
+set_autonomy = {	target = AST	autonomous_state = dominion	}
+set_autonomy = {	target = CAN	autonomous_state = dominion	}
+set_autonomy = {	target = NFL	autonomous_state = dominion	}
+set_autonomy = {	target = NZL	autonomous_state = dominion	}
+set_autonomy = {	target = SAF	autonomous_state = dominion	}
+
+set_autonomy = {	target = BHR	autonomous_state = protected_state	}
+set_autonomy = {	target = BHU	autonomous_state = protected_state	}
+set_autonomy = {	target = KUW	autonomous_state = protected_state	}
+set_autonomy = {	target = MLD	autonomous_state = protected_state	}
+set_autonomy = {	target = MSC	autonomous_state = protected_state	}
+set_autonomy = {	target = QAT	autonomous_state = protected_state	}
+set_autonomy = {	target = SKM	autonomous_state = protected_state	}
+set_autonomy = {	target = TRC	autonomous_state = protected_state	}
+
+set_autonomy = {	target = IND	autonomous_state = junior_partner_colony	}
+set_autonomy = {	target = LEW	autonomous_state = colonies_federation	}
+set_autonomy = {	target = WIW	autonomous_state = colonies_federation	}
+
+set_autonomy = {	target = BAH	autonomous_state = colony	}
+set_autonomy = {	target = BLZ	autonomous_state = colony	}
+set_autonomy = {	target = BMU	autonomous_state = colony	}
+set_autonomy = {	target = CYP	autonomous_state = colony	}
+set_autonomy = {	target = FIJ	autonomous_state = colony	}
+set_autonomy = {	target = FSM	autonomous_state = colony	}
+set_autonomy = {	target = GIB	autonomous_state = colony	}
+set_autonomy = {	target = HKG	autonomous_state = colony	}
+set_autonomy = {	target = JAM	autonomous_state = colony	}
+set_autonomy = {	target = JUB	autonomous_state = colony	}
+set_autonomy = {	target = KIR	autonomous_state = colony	}
+set_autonomy = {	target = LSO	autonomous_state = colony	}
+set_autonomy = {	target = PCN	autonomous_state = colony	}
+set_autonomy = {	target = SRL	autonomous_state = colony	}
+set_autonomy = {	target = STH	autonomous_state = colony	}
+set_autonomy = {	target = TRI	autonomous_state = colony	}
+set_autonomy = {	target = MLT	autonomous_state = colony	}
+
+set_autonomy = {	target = ADN	autonomous_state = colony_and_protectorate	}
+
+set_autonomy = {	target = SCZ	autonomous_state = leased_territory	}
+
+set_autonomy = {	target = BOT	autonomous_state = protected_territory	}
+set_autonomy = {	target = NGU	autonomous_state = protected_territory	}
+set_autonomy = {	target = SWL	autonomous_state = protected_territory	}

@@ -1,0 +1,23 @@
+state = {
+	id = 638
+	name = "STATE_638"
+	manpower=75153
+	state_category = small_island
+	
+	history = {
+		owner = GUM
+		add_core_of = NGU
+		add_core_of = FSM
+		add_core_of = GUM
+		buildings = {
+			infrastructure = 3
+			12140 = {	naval_base = 1	}
+		}
+		victory_points = {	12140	1	}
+	}
+	
+	provinces = {
+		12140
+	}
+	local_supplies = 0.0
+}

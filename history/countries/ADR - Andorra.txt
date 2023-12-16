@@ -1,0 +1,4 @@
+capital = 912
+
+set_cosmetic_tag = ADR_co-principality
+set_dictatorship = yes

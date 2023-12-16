@@ -1,0 +1,4 @@
+capital = 458
+
+set_cosmetic_tag = TUN_FRA
+set_dictatorship = yes

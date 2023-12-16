@@ -1,0 +1,4 @@
+capital = 938
+
+set_cosmetic_tag = MSCandOMA_sultanate
+set_dictatorship = yes

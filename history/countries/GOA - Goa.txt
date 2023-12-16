@@ -1,0 +1,4 @@
+capital = 321
+
+set_cosmetic_tag = COUNTRY_POR
+set_dictatorship = yes

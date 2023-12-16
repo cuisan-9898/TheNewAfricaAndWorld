@@ -1,0 +1,4 @@
+capital = 656
+
+set_cosmetic_tag = KUW_sheikhdom
+set_dictatorship = yes

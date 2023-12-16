@@ -1,0 +1,8 @@
+capital = 306
+
+set_cosmetic_tag = COL_republic
+set_dictatorship = yes
+
+set_autonomy =  {	target = ECU	autonomous_state = autonomous_puppet	}
+set_autonomy =  {	target = GLP	autonomous_state = autonomous_puppet	}
+set_autonomy =  {	target = PRU	autonomous_state = autonomous_puppet	}

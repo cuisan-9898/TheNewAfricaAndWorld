@@ -1,0 +1,98 @@
+﻿l_japanese:
+##国名
+#アジア
+ GREATERJAPAN_empire:0 "大日本帝国"
+ GREATERJAPAN_empire_DEF:0 "大日本帝国"
+ GREATERJAPAN_empire_ADJ:0 "日本"
+
+ MANCHUKUO_empire:0 "満州国"
+ MANCHUKUO_empire_DEF:0 "満州国" 
+ MANCHUKUO_empire_ADJ:0 "満州"
+
+ GREATMONGOLIA_state:0 "大モンゴル国"
+ GREATMONGOLIA_state_DEF:0 "大モンゴル国"
+ GREATMONGOLIA_state_ADJ:0 "大モンゴル"
+ 
+ IRAN_imperial_state:0 "イラン帝国"
+ IRAN_imperial_state_DEF:0 "イラン帝国"
+ IRAN_imperial_state_ADJ:0 "イラン"
+ 
+ JABALSHAMMAR_emirate:0 "ジャバル・シャンマル首長国"
+ JABALSHAMMAR_emirate_DEF:0 "ジャバル・シャンマル首長国"
+ JABALSHAMMAR_emirate_ADJ:0 "ジャバル・シャンマル"
+ 
+ MALAY_federated_states:0 "マレー連邦"
+ MALAY_federated_states_DEF:0 "マレー連邦"
+ MALAY_federated_states_ADJ:0 "マレー"
+ 
+#ヨーロッパ
+ GERbyPRE_reich:0 "ドイツ国"
+ GERbyPRE_reich_DEF:0 "ドイツ国"
+ GERbyPRE_reich_ADJ:0 "ドイツ"
+ 
+ HUN_crown_lands:0 "神聖なるハンガリーの聖イシュトバーン王冠諸領邦"
+ HUN_crown_lands_DEF:0 "神聖なるハンガリーの聖イシュトバーン王冠諸領邦"
+ HUN_crown_lands_ADJ:0 "ハンガリー"
+
+#新大陸
+ AMERICA_united_states_48:0 "アメリカ合衆国"
+ AMERICA_united_states_48_DEF:0 "アメリカ合衆国"
+ AMERICA_united_states_48_ADJ:0 "アメリカ"
+
+ CARIBBEAN_state:0 "カリブ海諸島国"
+ CARIBBEAN_state_DEF:0 "カリブ海諸島国"
+ CARIBBEAN_state_ADJ:0 "カリブ海諸島"
+
+ ECU_GALAPAGOS_government:0 "エクアドル共和国ガラパゴス政府"
+ ECU_GALAPAGOS_government_DEF:0 "エクアドル共和国ガラパゴス政府"
+ ECU_GALAPAGOS_government_ADJ:0 "ガラパゴス"
+
+ NOUTHBAHAMAS_LEW_state:0 "北バハマ国"
+ NOUTHBAHAMAS_LEW_state_DEF:0 "北バハマ国"
+ NOUTHBAHAMAS_LEW_state_ADJ:0 "北バハマ"
+
+ SOUTHBAHAMAS_LEW_state:0 "南バハマ国"
+ SOUTHBAHAMAS_LEW_state_DEF:0 "南バハマ国"
+ SOUTHBAHAMAS_LEW_state_ADJ:0 "南バハマ"
+##連合国家
+#アジア
+ SOUTHYEMEN_peoples_republic:0 "イエメン人民民主共和国"
+ SOUTHYEMEN_peoples_republic:0 "イエメン人民民主共和国"
+ SOUTHYEMEN_peoples_republic:0 "南イエメン"
+
+ MSCandOMA_sultanate:0 "マスカット及びオマーン・スルタン国"
+ MSCandOMA_sultanate_DEF:0 "マスカット及びオマーン・スルタン国"
+ MSCandOMA_sultanate_ADJ:0 "マスカット・オマーン"
+ 
+ NEJDandHASA_emirate:0 "ナジュド及びハッサ首長国"
+ NEJDandHASA_emirate_DEF:0 "ナジュド及びハッサ首長国"
+ NEJDandHASA_emirate_ADJ:0 "ナジュド・ハッサ"
+ 
+#ヨーロッパ
+ AUSandHUN_land:0 "オーストリア諸領邦及び神聖なるハンガリーの聖イシュトヴァーン王冠の諸邦"
+ AUSandHUN_land_DEF:0 "オーストリア諸領邦及び神聖なるハンガリーの聖イシュトヴァーン王冠の諸邦"
+ AUSandHUN_land_ADJ:0 "オーストリア・ハンガリー"
+
+ BOSandHRZ_republic_government_in_exile:0 "ボスニアヘルツェゴビナ共和国亡命政府"
+ BOSandHRZ_republic_government_in_exile_DEF:0 "ボスニアヘルツェゴビナ共和国亡命政府"
+ BOSandHRZ_republic_government_in_exile_ADJ:0 "ボスニアヘルツェゴビナ"
+
+ CROandSLNandDAL_triune_kingdom:0 "クロアチア・スラボニア及びダルマチア三重王国"
+ CROandSLNandDAL_triune_kingdom_DEF:0 "クロアチア・スラボニア及びダルマチア三重王国"
+ CROandSLNandDAL_triune_kingdom_ADJ:0 "クロアチア"
+
+ DJIandCYP_land:0 "ジブチ＝キプロス大公国"
+ DJIandCYP_land_DEF:0 "ジブチ＝キプロス大公国"
+ DJIandCYP_land_ADJ:0 "ジブチ＝キプロス"
+
+ GBRandIREbyENG_united_kingdom:0 "グレートブリテン及び北アイルランド連合王国"
+ GBRandIREbyENG_united_kingdom_DEF:0 "グレートブリテン及び北アイルランド連合王国"
+ GBRandIREbyENG_united_kingdom_ADJ:0 "イギリス"
+ 
+ ITAbySRD_kingdom:0 "イタリア王国"
+ ITAbySRD_kingdom_DEF:0 "イタリア王国"
+ ITAbySRD_kingdom_ADJ:0 "イタリア"
+
+ LATandEST_duchy:0 "ラトビア＝エストニア連合公国"
+ LATandEST_duchy_DEF:0 "ラトビア＝エストニア連合公国"
+ LATandEST_duchy_ADJ:0 "ラトビア＝エストニア"

@@ -1,0 +1,4 @@
+capital = 639
+
+set_cosmetic_tag = KIRandTVL_GBRandIREbyENG
+set_dictatorship = yes

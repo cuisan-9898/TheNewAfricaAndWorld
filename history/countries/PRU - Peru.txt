@@ -1,0 +1,4 @@
+capital = 303
+
+set_cosmetic_tag = PRU_republic
+set_dictatorship = yes

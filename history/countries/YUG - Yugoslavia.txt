@@ -1,0 +1,3 @@
+capital = 107
+set_dictatorship = yes
+set_autonomy = {	target = GNA	autonomous_state = colony	}

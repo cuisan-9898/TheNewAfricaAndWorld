@@ -1,0 +1,4 @@
+capital = 461
+
+set_cosmetic_tag = MOR_FRA
+set_dictatorship = yes

@@ -1,0 +1,22 @@
+state = {
+	id = 937
+	name = "STATE_937"
+	manpower = 3962157
+	state_category = city
+	
+	history = {
+		owner = LSO
+		add_core_of = LSO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = {	4556	10	}
+	}
+	
+	provinces = {
+		4556
+	}
+	local_supplies = 0.0
+}

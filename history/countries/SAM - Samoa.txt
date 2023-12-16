@@ -1,0 +1,4 @@
+capital = 726
+
+set_cosmetic_tag = COUNTRY_USA
+set_dictatorship = yes

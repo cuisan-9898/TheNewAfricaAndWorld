@@ -1,0 +1,21 @@
+state = {
+	id = 934
+	name = "STATE_934"
+	manpower = 28900
+	state_category = large_town
+	
+	history = {
+		owner = KED
+		add_core_of = KED
+		add_core_of = MAL
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1291
+	}
+	local_supplies = 0.0
+}

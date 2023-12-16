@@ -1,0 +1,4 @@
+﻿capital = 270
+
+set_cosmetic_tag = PCN_GBRandIREbyENG
+set_dictatorship = yes

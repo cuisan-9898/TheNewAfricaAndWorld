@@ -1,0 +1,4 @@
+capital = 11
+set_cosmetic_tag = LIT_republic
+set_dictatorship = yes
+set_autonomy = {	target = GHA	autonomous_state = colony	}

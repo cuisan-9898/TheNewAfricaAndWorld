@@ -1,0 +1,4 @@
+capital = 116
+
+set_cosmetic_tag = MLT_GBRandIREbyENG
+set_dictatorship = yes

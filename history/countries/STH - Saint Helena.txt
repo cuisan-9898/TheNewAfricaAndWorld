@@ -1,0 +1,4 @@
+capital = 704
+
+set_cosmetic_tag = COUNTRY_GBRandIREbyENG
+set_dictatorship = yes

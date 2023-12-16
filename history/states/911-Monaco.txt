@@ -1,0 +1,21 @@
+state = {
+	id = 911
+	name = "STATE_911"
+	manpower = 20000
+	buildings_max_level_factor = 1
+	state_category = city
+	
+	history = {
+		owner = MCO
+		add_core_of = MCO
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	
+	provinces = {
+		13259
+	}
+	local_supplies = 0.0
+}

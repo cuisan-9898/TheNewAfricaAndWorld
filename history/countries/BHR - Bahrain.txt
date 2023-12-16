@@ -1,0 +1,4 @@
+capital = 942
+
+set_cosmetic_tag = BHR_sheikhdom
+set_dictatorship = yes

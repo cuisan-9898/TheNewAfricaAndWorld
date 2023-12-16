@@ -1,0 +1,4 @@
+capital = 313
+
+set_cosmetic_tag = GUA_republic
+set_dictatorship = yes

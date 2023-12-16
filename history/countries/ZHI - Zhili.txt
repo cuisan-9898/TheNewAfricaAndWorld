@@ -1,0 +1,4 @@
+﻿capital = 608
+
+set_cosmetic_tag = ZHI_military_clique
+set_dictatorship = yes

@@ -1,0 +1,2 @@
+capital = 884
+set_cosmetic_tag = COUNTRY_DEN

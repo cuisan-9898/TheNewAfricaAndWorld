@@ -1,0 +1,22 @@
+state = {
+	id = 922
+	name = "STATE_922"
+	manpower = 0
+	buildings_max_level_factor = 1
+	state_category = wasteland
+	
+	history = {
+		owner = RIF
+		add_core_of = RIF
+		buildings = {
+			infrastructure = 1
+			8038 = {	naval_base = 1	}
+		}
+		victory_points = {	8038	1	}
+	}
+	
+	provinces = {
+		8038	8111	4920
+	}
+	local_supplies = 0.0
+}

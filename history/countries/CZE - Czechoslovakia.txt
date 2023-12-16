@@ -1,0 +1,3 @@
+capital = 9
+set_cosmetic_tag = CZE_republic
+set_dictatorship = yes

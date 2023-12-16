@@ -1,0 +1,4 @@
+capital = 944
+
+set_cosmetic_tag = ZAN_sultanate
+set_dictatorship = yes

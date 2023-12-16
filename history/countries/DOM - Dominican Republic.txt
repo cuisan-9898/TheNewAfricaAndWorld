@@ -1,0 +1,4 @@
+capital = 319
+
+set_cosmetic_tag = DOM_republic
+set_dictatorship = yes

@@ -1,0 +1,17 @@
+capital = 16
+
+set_cosmetic_tag = FRA_republic
+set_dictatorship = yes
+
+INC = {	set_country_flag = federal_flag	}
+
+set_autonomy = {	target = EQA	autonomous_state = colony	}
+set_autonomy = {	target = GDL	autonomous_state = colony	}
+set_autonomy =  {	target = MHL	autonomous_state = colony	}
+set_autonomy = {	target = NCL	autonomous_state = colony	}
+set_autonomy = {	target = LIB	autonomous_state = colony	}
+set_autonomy = {	target = PUD	autonomous_state = colony	}
+set_autonomy = {	target = SPM	autonomous_state = colony	}
+set_autonomy = {	target = TAH	autonomous_state = colony	}
+set_autonomy = {	target = MOR	autonomous_state = protected_territory	}
+set_autonomy = {	target = TUN	autonomous_state = protected_territory	}

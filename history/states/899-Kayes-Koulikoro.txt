@@ -1,0 +1,21 @@
+state = {
+	id = 899
+	name = "STATE_899"
+	manpower = 1163674
+	buildings_max_level_factor = 1
+	state_category = pastoral
+	
+	history = {
+		owner = WAF
+		add_core_of = WAF
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		2012	10829	10915
+	}
+	local_supplies = 0.0
+}

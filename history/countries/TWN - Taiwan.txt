@@ -1,0 +1,4 @@
+capital = 524
+
+set_cosmetic_tag = COUNTRY_JAP
+set_dictatorship = yes

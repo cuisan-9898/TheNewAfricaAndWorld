@@ -1,0 +1,4 @@
+capital = 295
+
+set_cosmetic_tag = COG_BEL
+set_dictatorship = yes

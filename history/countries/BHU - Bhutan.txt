@@ -1,0 +1,4 @@
+capital = 324
+
+set_cosmetic_tag = BHU_kingdom
+set_dictatorship = yes

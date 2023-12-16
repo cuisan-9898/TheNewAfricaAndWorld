@@ -1,0 +1,4 @@
+capital = 104
+
+set_cosmetic_tag = BOSandHRZ_republic_government_in_exile
+set_dictatorship = yes

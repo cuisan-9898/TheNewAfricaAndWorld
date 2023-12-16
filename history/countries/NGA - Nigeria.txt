@@ -1,0 +1,4 @@
+capital = 558
+
+set_cosmetic_tag = COUNTRY_SPR_kingdom
+set_dictatorship = yes

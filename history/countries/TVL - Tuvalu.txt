@@ -1,0 +1,3 @@
+capital = 643
+set_cosmetic_tag = COUNTRY_FRAandGERbyPRE_reich
+set_dictatorship = yes
