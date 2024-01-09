@@ -1,23 +1,23 @@
-state = {
-	id = 621
-	name = "STATE_621"
-	manpower = 1583700
-	buildings_max_level_factor = 1
-	state_category = pastoral
-	
-	history = {
-		owner = SHX
-		add_core_of = MEN
-		add_core_of = CHI
-		add_core_of = SHX
-		buildings = {
+state={
+	id=621
+	name="STATE_621" # Suiyuan
+	manpower = 2083700
+	state_category=pastoral
+	provinces={ 1959 2087 3427 4525 4960 4986 7048 7158 7631 10424 10451 10629 10854 12331 12403 12609 12706 12880 }
+	history={
+		victory_points={ 7158 1 }
+		victory_points={ 10424 1 }
+		owner=QIN
+		add_core_of=QIN
+		add_core_of=MON
+		buildings={
 			infrastructure = 1
-			industrial_complex = 1
+		}
+		1912.2.12 = {
+			owner = SHX
+			add_core_of = SHX
+			add_core_of = NAN
 		}
 	}
-	
-	provinces = {
-		2087	4525	7048	7158	7631	10424	10629	12331	12403	12609	12880
-	}
-	local_supplies = 4.0
+	local_supplies=4.0 
 }

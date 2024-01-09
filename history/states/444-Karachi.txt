@@ -1,21 +1,16 @@
-state = {
-	id = 444
-	name = "STATE_444"
+state={
+	id=444
+	name="STATE_444" # BaluNANstan
 	manpower = 463500
-	state_category = wasteland
-	
-	history = {
-		owner = IND
+	state_category=wasteland
+	provinces={ 1179 5043 5075 7917 8013 8066 12761 12774 }
+	history={
+		victory_points={ 12774 1 }
+		owner=IND
 		add_core_of = IND
 		add_core_of = PAK
-		buildings = {
+		buildings={
 			infrastructure = 1
 		}
-		victory_points = {	8066	1	}
 	}
-	
-	provinces = {
-		1179	5043	5075	7917	8013	8066	12761	12774
-	}
-	local_supplies = 0.0
 }

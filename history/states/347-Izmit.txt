@@ -1,29 +1,33 @@
-state = {
-	id = 347
-	name = "STATE_347"
-	manpower = 807660
-	state_category = rural
-	
-	resources = {
-		chromium = 19
-		steel = 9
+state={
+	id=347
+	name="STATE_347" 
+	resources={
+		steel = 12
+		chromium = 30
 	}
-	
-	history = {
-		owner = OTT
-		add_core_of = OTT
-		add_core_of = TUR
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			904 = {	naval_base = 2	}
+	history={
+		victory_points = {
+			9833 25 
 		}
-		victory_points = {	904	1	}
-		victory_points = {	11811	1	}
+		owner=TUR
+		add_core_of=TUR
+		buildings={
+			infrastructure = 3
+			air_base=1
+			dockyard = 1
+			industrial_complex = 2
+			arms_factory = 2
+			9833 = { naval_base = 8 }
+		}
+		1914.6.14 = {
+			buildings={
+				industrial_complex = 3	
+			}
+		}
 	}
-	
-	provinces = {
-		890	904	3905	3919	6871	11811	11866	11883
+	provinces={ 
+		3184 9833 11829 10907 2064
 	}
-	local_supplies = 0.0
+	manpower = 1222700
+	state_category=metropolis 
 }

@@ -1,41 +1,24 @@
-
 state={
 	id=143
 	name="STATE_143"
+	manpower = 210271
+	
+	state_category = rural
 
 	history={
-		victory_points = {
-			3022 3 
-		}
 		owner = NOR
-		add_core_of = NOR
-		if = {
-			limit = {
-				has_dlc = Arms
-				Against Tyranny 
-			}
-			add_core_of = SMI
-
-		}
 		buildings = {
 			infrastructure = 2
-			arms_factory = 0
-			industrial_complex = 1
 			3022 = {
-				naval_base = 3
-				coastal_bunker = 2
-
+				naval_base = 2
 			}
-
 		}
-
+		victory_points = {
+			3022 3
+		}
+		add_core_of = NOR
 	}
-
-	provinces={
-		21 107 111 115 173 3018 3022 3048 3088 3098 3126 3183 6038 6041 6071 6111 6116 6118 6173 6187 9069 9132 9139 9208 9227 11113 11118 11173 11206 
+	provinces={ 
+		21 107 115 3018 3022 3098 3183 6038 6041 6116 6118 6173 9069 9132 9139 11118 11173 
 	}
-	manpower=280271
-	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
 }

@@ -1,22 +1,18 @@
-state = {
-	id = 45
-	name = "STATE_45"
-	manpower = 838621
-	buildings_max_level_factor = 1
-	state_category = town
-	
-	history = {
+state={
+	id=45
+	name = "STATE_45" #Bačka
+	manpower = 626200
+	state_category=rural
+	provinces = { 619 3617 3623 9608 9621 }
+	history={
+	    victory_points = { 3617 3 }
+	    victory_points = { 9621 1 }
 		owner = YUG
-		add_core_of = HUN
+		add_core_of = AUH
 		add_core_of = YUG
-		buildings = {
-			infrastructure = 3
+		add_core_of=HUN
+		buildings={
+			infrastructure = 2
 		}
-		victory_points = { 619 3 }
 	}
-	
-	provinces = {
-		619	3617	3623	9608	9621
-	}
-	local_supplies = 0.0
 }

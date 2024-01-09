@@ -1,20 +1,21 @@
-state = {
-	id = 240
-	name = "STATE_240"
-	manpower = 1364537
-	state_category = town
-	
-	history = {
+
+state={
+	id=240
+	name="STATE_240"
+	history={
 		owner = SOV
 		add_core_of = SOV
+		victory_points = {
+			9449 1
+		}
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {	9449	1	}
 	}
-	
-	provinces = {
-		473	534	3492	6432	6481	6517	6577	9424	9449	9489	9518	11439	11500
+	provinces={
+		3492 3520 6481 6517 6565 9449 9518 11500 11526
 	}
-	local_supplies = 0.0
+	manpower=1364537
+	buildings_max_level_factor=1.000
+	state_category=town
 }

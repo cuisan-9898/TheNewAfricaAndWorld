@@ -1,23 +1,18 @@
-state = {
-	id = 751
-	name = "STATE_751"
-	manpower = 300000
-	buildings_max_level_factor = 1
-	state_category = pastoral
-	
-	history = {
-		owner = YUN
-		add_core_of = YUN
-		add_core_of = CHI
-		buildings = {
-			infrastructure = 1
+state={
+	id=751
+	name="STATE_751"
+	manpower=325000
+	state_category=rural
+	provinces={ 332 11251 }
+	history={
+		owner=DEN
+		add_core_of=DEN
+		add_core_of=GER
+		add_core_of=SHL
+		buildings={
+			infrastructure = 3
+			dockyard=1
 		}
-		victory_points = {	7294	1	}
-		victory_points = {	12141	3	}
 	}
-	
-	provinces = {
-		1999 2067 7294 10726 10841 12141 12819 
-	}
-	local_supplies = 1.0
+	local_supplies=1.0 
 }

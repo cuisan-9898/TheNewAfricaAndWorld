@@ -1,23 +1,26 @@
-state = {
-	id = 617
-	name = "STATE_617"
-	manpower = 1080500
-	buildings_max_level_factor = 1
-	state_category = rural
-	
-	history = {
-		owner = SIK
-		add_core_of = SIK
-		add_core_of = CHI
+
+state={
+	id=617
+	name="STATE_617"
+
+	history={
+		owner = QIN
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 2
+			arms_factory = 1
 		}
-		victory_points = {	4709	5	}
+		1912.2.12 = {
+			owner = MAN
+			add_core_of = MAN
+			add_core_of = NAN
+		}
 	}
-	
-	provinces = {
-		1703	4682	4709	4770	7702	7792	7850	10545	10614	12526	12601	12656
+
+	provinces={
+		846 6951 9788 9831 9835 11815 
 	}
-	local_supplies = 6.0
+	manpower=1780500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=6.0 
 }

@@ -1,22 +1,18 @@
-state = {
-	id = 701
-	name = "STATE_701"
-	manpower = 199520
-	buildings_max_level_factor = 1
+state={
+	id=701
+	name="STATE_701"
+	manpower = 165000
 	state_category = enclave
-	
-	history = {
-		owner = GAM
+	provinces={ 4989 13213 }
+	history={
+		owner=IRE
 		add_core_of = GAM
-		buildings = {
-			infrastructure = 2
-			4989 = {	naval_base = 1	}
+		victory_points = {
+			4989 1 
 		}
-		victory_points = {	4989	1	}
+		buildings={
+			infrastructure = 2
+			4989={ naval_base=1 }
+		}
 	}
-	
-	provinces = {
-		4989	13213
-	}
-	local_supplies = 0.0
 }

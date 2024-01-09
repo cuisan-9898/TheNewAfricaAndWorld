@@ -1,22 +1,17 @@
-state = {
-	id = 332
-	name = "STATE_332"
-	manpower = 22179
-	buildings_max_level_factor = 1
-	state_category = wasteland
-	
-	history = {
-		owner = NFL
-		add_core_of = NFL
-		add_core_of = CAN
-		buildings = {
+state={
+	id=332
+	name="STATE_332"
+	manpower=22179
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+	provinces={ 1426 11607 13062 }
+
+	history={
+		owner=GBR
+		add_core_of=CAN
+
+		buildings={
 			infrastructure = 1
-			12503 = {	naval_base = 1	}
+			}
 		}
 	}
-	
-	provinces = {
-		1426	1785	4720	4787	12503	13165	13180
-	}
-	local_supplies = 0.0
-}

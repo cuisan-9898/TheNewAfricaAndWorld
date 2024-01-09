@@ -1,25 +1,24 @@
-state = {
-	id = 754
-	name = "STATE_754"
-	manpower = 400000
-	buildings_max_level_factor = 1
-	state_category = rural
-	
-	history = {
-		owner = TIB
-		add_core_of = TIB
-		add_core_of = CHI
-		add_core_of = XIB
+
+state={
+	id=754
+	name="STATE_754"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		add_core_of = EGY
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 1
+			infrastructure = 0
+
 		}
-		victory_points = {	12732	3	}
+
 	}
-	
-	provinces = {
-		1882	4536	4888	7270	10490	10817	11448	12732	12815
+
+	provinces={
+		10754 
 	}
-	local_supplies = 0.0
+	manpower=16000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
 }

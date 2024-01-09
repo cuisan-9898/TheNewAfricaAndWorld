@@ -1,20 +1,18 @@
-state = {
-	id = 549
-	name = "STATE_549"
-	manpower = 1802132
-	buildings_max_level_factor = 1
-	state_category = rural
-	
-	history = {
-		owner = SUD
+state={
+	id=549
+	name="STATE_549"
+	manpower = 3194293
+	state_category=rural
+	provinces={ 1914 1953 2016 2096 4033 4918 8084 10764 10795 10827 10851 10857 10859 10877 10908 12744 12800 12887 }
+	history={
+		owner = DEN
 		add_core_of = SUD
-		buildings = {
-			infrastructure = 2
+		add_claim_by = EGY
+		victory_points = {
+			2096 1
+		}
+		buildings={
+			infrastructure = 1
 		}
 	}
-	
-	provinces = {
-		2016	4033	8084	10739	10795	10827	10851	12744
-	}
-	local_supplies = 0.0
 }

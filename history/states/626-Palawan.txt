@@ -1,21 +1,15 @@
-state = {
-	id = 626
-	name = "STATE_626"
+state={
+	id=626
+	name="STATE_626"
 	manpower = 83041
-	state_category = rural
-	
-	history = {
-		owner = PHI
-		add_core_of = INS
-		add_core_of = PHI
-		buildings = {
+	state_category=rural
+	provinces={ 4429 7419 10145 }
+	history={
+		owner=USA
+		add_core_of=PHI
+		buildings={
 			infrastructure = 2
-			4429 = {	naval_base = 1	}
+			4429={ naval_base=1 }
 		}
 	}
-	
-	provinces = {
-		4429	7419	10145
-	}
-	local_supplies = 0.0
 }

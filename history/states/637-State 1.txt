@@ -1,22 +1,26 @@
-state = {
-	id = 637
-	name = "STATE_637"
-	manpower = 48831
-	buildings_max_level_factor = 1
-	state_category = pastoral
-	
-	history = {
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
 		owner = SOV
 		add_core_of = SOV
-		add_core_of = FER
 		buildings = {
-			infrastructure = 1
-			12207 = {	naval_base = 1	}
+			infrastructure = 2
+			12207 = {
+				naval_base = 1
+
+			}
+
 		}
+
 	}
-	
-	provinces = {
-		1823	1839	1863	4728	7878	12207	12522
+
+	provinces={
+		1823 1839 1863 1865 4728 4744 4810 5264 7878 10540 12207 12518 12522 12551 12683 13063 13204 
 	}
-	local_supplies = 0.0
+	manpower=37000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

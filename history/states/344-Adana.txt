@@ -1,26 +1,22 @@
-state = {
-	id = 344
-	name = "STATE_344"
-	manpower = 1081781
-	state_category = town
-	
-	history = {
-		owner = OTT
-		add_core_of = OTT
-		add_core_of = TUR
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			11746 = {	naval_base = 3	}
+state={
+	id=344
+	name="STATE_344" # Adana
+	history={
+		victory_points={ 
+			11746 7
 		}
-		victory_points = {	6813	3	}
-		victory_points = {	7620	10	}
-		victory_points = {	9893	15	}
-		victory_points = {	11746	5	}
+		owner=TUR
+		add_core_of=TUR
+		buildings={
+			infrastructure = 2
+			11746={ 
+				naval_base=3 
+			}
+		}
 	}
-	
-	provinces = {
-		806	3889	6813	7620	9893	9912	11746
+	provinces={ 
+	 886 4006 4124 6956 10056 11746 11810 4008 7026
 	}
-	local_supplies = 0.0
+	manpower = 422400
+	state_category=large_town
 }

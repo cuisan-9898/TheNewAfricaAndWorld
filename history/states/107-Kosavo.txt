@@ -1,25 +1,30 @@
-state = {
-	id = 107
-	name = "STATE_107"
-	manpower = 1279121
-	buildings_max_level_factor = 1
-	state_category = large_city
-	
-	history = {
+
+state={
+	id=107
+	name="STATE_107"
+	resources={
+		steel=2.000
+	}
+	history={
+		victory_points = {
+			11586 25 
+		}
+		victory_points = {
+			6998 5 
+		}
 		owner = YUG
-		add_core_of = YUG
 		add_core_of = SER
 		buildings = {
 			infrastructure = 3
-			arms_factory = 3
-			industrial_complex = 4
-			air_base = 5
+			industrial_complex = 1
+			arms_factory = 1
 		}
-		victory_points = {	11586 15	}
 	}
-	
-	provinces = {
-		797	3609	3956	3984	6634	9599	11583	11586
+	provinces={
+		797 3609 3956 3984 6970 6998 9599 11583 11586 
 	}
-	local_supplies = 4.0
+	manpower=2400000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=4.0 
 }

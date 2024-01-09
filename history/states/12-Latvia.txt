@@ -1,25 +1,22 @@
-state = {
-	id = 12
-	name = "STATE_12"
-	manpower = 408500
-	state_category = rural
-	
-	resources = {	steel = 1	}
-	
-	history = {
-		owner = LAT
-		add_core_of = SOV
-		add_core_of = LAT
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			air_base = 3
+state={
+	id=12
+	name="STATE_12"
+	manpower = 1520500
+	state_category=city
+	provinces={ 3298 3388 9240 9317 9340 9501 10323 10493 11222 11302 }
+	resources={
+		steel=1
 		}
-		victory_points = {	10493	1	}
+	history={
+		victory_points={ 9340 5 }
+		owner=LAT
+		add_core_of=SOV
+		add_core_of=LAT
+		buildings={
+			infrastructure = 3
+			industrial_complex=1
+			dockyard=1
+			9340={ naval_base=3 }
+		}
 	}
-	
-	provinces = {
-		3388	9317	9501	10493	11302
-	}
-	local_supplies = 0.0
 }

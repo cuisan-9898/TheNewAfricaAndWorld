@@ -1,20 +1,14 @@
-state = {
-	id = 702
-	name = "STATE_702"
-	manpower = 150600
-	state_category = small_island
-	
-	history = {
-		owner = CPV
-		add_core_of = CPV
-		buildings = {
-			infrastructure = 2
-			13014 ={	naval_base = 1	}
+state={
+	id=702
+	name="STATE_702"
+	manpower = 140000
+	state_category=small_island
+	provinces={ 13014 }
+	history={
+		owner=POR
+		buildings={
+			infrastructure = 1
+			13014={ naval_base=1 }
 		}
 	}
-	
-	provinces = {
-		13014
-	}
-	local_supplies = 0.0
 }

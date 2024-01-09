@@ -1,22 +1,25 @@
-state = {
-	id = 775
-	name = "STATE_775"
-	manpower = 18744
-	buildings_max_level_factor = 1
+state={
+	id=775
+	name="STATE_775" # BET - Borkou-Ennedi-Tibesti region
 	state_category = wasteland
 	impassable = yes
-	
-	history = {
-		owner = EQA
-		add_core_of = EQA
-		add_core_of = CHA
+	history={
+		owner = LBA
+		add_core_of = LBA
+		add_claim_by = FRA
 		buildings = {
 			infrastructure = 0
 		}
+		1912.10.18 = {
+			owner = FRA
+			controller = FRA
+			remove_core_of = LBA
+		}
 	}
-	
-	provinces = {
-		4902	5136	10893
+	provinces={
+		4191
 	}
-	local_supplies = 1.0
+	manpower=35000
+	local_supplies=1.0 
+
 }

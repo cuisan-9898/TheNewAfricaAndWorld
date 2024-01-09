@@ -1,26 +1,19 @@
-state = {
-	id = 84
-	name = "STATE_84"
+state={
+	id=84
+	name="STATE_84"
 	manpower = 1622300
-	state_category = town
-	
-	resources = {	steel = 3	}
-	
-	history = {
-		owner = ROM
-		add_core_of = HUN
-		add_core_of = ROM
-		add_core_of = TRA
-		buildings = {
+	state_category=rural
+	provinces={ 676 3665 3676 6679 6709 9619 11639 }
+	resources={
+		steel=6
+	}
+	history={
+		victory_points={ 6679 1 }
+		owner=ROM
+		add_core_of=ROM
+		add_core_of=TRA
+		buildings={
 			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 1
 		}
-		victory_points = {	690	1	}
 	}
-	
-	provinces = {
-		676	690	693	3665	3676	3694	6679	6709	9619	11622	11639
-	}
-	local_supplies = 0.0
 }

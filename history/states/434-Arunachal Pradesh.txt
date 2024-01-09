@@ -1,20 +1,25 @@
-state = {
-	id = 434
-	name = "STATE_434"
+state={
+	id=434
+	name="STATE_434"
 	manpower = 200000
-	state_category = wasteland
-	
+	state_category=wasteland
+	provinces={ 1996 10810 12730 }
+	resources={
+		tungsten=1
+	}
 	history={
-		owner = TIB
+		owner = QIN
 		add_core_of = TIB
-		add_core_of = IND
+		add_claim_by = QIN
+		add_claim_by = IND
 		buildings = {
 			infrastructure = 1
 		}
+		1912.2.12 = {
+			owner = TIB
+			controller = TIB
+			remove_claim_by = QIN
+		}
 	}
-	
-	provinces = {
-		1116	1996	10810	12322	12730
-	}
-	local_supplies = 3.0
+	local_supplies=3.0 
 }

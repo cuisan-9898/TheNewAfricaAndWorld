@@ -1,22 +1,21 @@
-state = {
-	id = 554
-	name = "STATE_554"
-	manpower = 547797
-	state_category = rural
-	
-	history = {
+state={
+	id=554
+	name="STATE_554" # Damascus
+	history={
+		victory_points = {
+			4111 10
+		}
 		owner = SYR
-		add_core_of = JRS
+		add_core_of = TUR
 		add_core_of = SYR
 		buildings = {
 			infrastructure = 2
-			air_base = 1
 		}
-		victory_points = {	4111	5	}
 	}
-	
-	provinces = {
-		1074	4111	4486	4550
+	provinces={
+		1056 1072 1074 4111 4486 4550 7140 7184 12442 7513 2013
 	}
-	local_supplies = 2.0
+	manpower=1029732
+	state_category=large_town
+	local_supplies=2.0 
 }

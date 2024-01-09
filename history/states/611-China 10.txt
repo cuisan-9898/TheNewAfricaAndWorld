@@ -1,22 +1,32 @@
-state = {
-	id = 611
-	name = "STATE_611"
-	manpower = 1470000
-	state_category = pastoral
-	
-	history = {
-		owner = MEN
-		add_core_of = MEN
-		add_core_of = CHI
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+
+state={
+	id=611
+	name="STATE_611"
+
+	history={
+		victory_points = {
+			1590 3 
 		}
-		victory_points = {	11752	4	}
+		victory_points = {
+			9768 1 
+		}
+		owner = QIN
+		add_core_of = QIN
+		buildings = {
+			infrastructure = 2
+		}
+		1912.2.12 = {
+			owner = NAN
+			controller = NAN
+			add_core_of = NAN
+			remove_core_of = QIN
+		}
 	}
-	
-	provinces = {
-		828	952	1137	1489	1590	4495	4612	6904	7545	7674	9776	10397	11752
+
+	provinces={
+		828 881 952 1137 1590 3955 6904 9768 9776 10397 
 	}
-	local_supplies = 0.0
+	manpower=1470000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

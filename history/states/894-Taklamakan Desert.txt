@@ -1,0 +1,21 @@
+state={
+	id=894
+	name="STATE_894"
+	provinces={
+		5016 7790 8042 8086 10885 12864 
+	}
+	history={
+		owner = QIN
+		1912.2.12 = {
+			owner = SIK
+			add_core_of = SIK
+			add_core_of = NAN
+
+		}
+	}
+	manpower=54
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+	impassable = yes
+}

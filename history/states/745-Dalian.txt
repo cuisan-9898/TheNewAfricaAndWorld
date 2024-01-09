@@ -1,27 +1,20 @@
-state = {
-	id = 745
-	name = "STATE_745"
-	manpower = 1000000
-	buildings_max_level_factor = 1
-	state_category = large_town
-	
-	history = {
-		owner = DLI
-		add_core_of = DLI
-		add_core_of = CHI
-		add_core_of = MAN
-		buildings = {
-			infrastructure = 3
-			air_base = 1
-			industrial_complex = 1
-			1150 = {	naval_base = 5	}
-			1150 = {	coastal_bunker = 1	}
+state={
+	id=745
+	name="STATE_745"
+	manpower=50000
+	state_category=large_town
+	provinces={ 10000 }
+	history={
+		victory_points={ 10000 1 }
+		owner=JAP
+		add_core_of=QIN
+		buildings={
+			infrastructure = 1
+			10000={ naval_base=4 }
 		}
-		victory_points = {	1150	1	}
+		1912.2.12 = {
+			add_core_of = NAN
+			remove_core_of = QIN
+		}
 	}
-	
-	provinces = {
-		1150	6851
-	}
-	local_supplies = 0.0
 }

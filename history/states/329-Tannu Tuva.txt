@@ -1,25 +1,17 @@
-state = {
-	id = 329
-	name = "STATE_329"
-	manpower = 85000
-	state_category = rural
-	
-	resources = {	chromium = 2	}
-	
-	history = {
-		owner = SOV
-		add_core_of = SOV
-		add_core_of = TUV
-		buildings = {
+state={
+	id=329
+	name="STATE_329"
+	manpower = 60000
+	state_category=rural
+	provinces={ 1676 4680 4882 7703 7731 7804 7819 10597 10627 10646 12610 12625 }
+	history={
+		victory_points={ 10627 3 }
+		owner=SOV
+		add_core_of=TAN
+		add_core_of=MON
+		add_claim_by=QIN
+		buildings={
 			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 1
 		}
-		victory_points = {	10627	3	}
 	}
-	
-	provinces = {
-		1676	1877	4680	7703	7731	7804	7819	10597	10627	10646	12610	12625
-	}
-	local_supplies = 0.0
 }

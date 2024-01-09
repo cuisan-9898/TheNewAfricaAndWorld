@@ -1,20 +1,16 @@
-state = {
-	id = 733
-	name = "STATE_733"
-	manpower = 29500
-	state_category = small_island
-	
-	history = {
-		owner = IND
-		add_core_of = IND
-		buildings = {
+state={
+	id=733
+	name="STATE_733"
+	manpower=29500
+	state_category=small_island
+	provinces={ 10321 12251 }
+
+	history={
+		owner=GBR
+
+		buildings={
 			infrastructure = 2
-			12251 = {	naval_base = 2	}
+			12251={ naval_base=2  }
+			}
 		}
 	}
-	
-	provinces = {	
-		10321	12251
-	}
-	local_supplies = 0.0
-}

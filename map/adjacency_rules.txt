@@ -51,9 +51,8 @@ adjacency_rule =
 		OR = {
 			has_global_flag = SUEZ_CANAL_BLOCKED
 			has_country_flag = SUEZ_CANAL_BLOCKED_FOR_COUNTRY
-			has_country_flag = SUEZ_SANCTIONS_FLAG
 		}
-		tooltip = suez_blocked_tt
+		tooltip = disable_canal_tt
 	}
 		
 	icon = 12049
@@ -97,7 +96,7 @@ adjacency_rule =
 	required_provinces = { 4135 9945 }
 	
 	icon = 5407	
-	offset = { -31.0 0.0 -2.0 }
+	offset = { -15 0 2 }
 }
 
 #Øresund - (Østersøen <-> Kattegat/Skagerak/Nordsøen)
@@ -168,9 +167,9 @@ adjacency_rule =
 	}
 	neutral =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	
@@ -179,6 +178,7 @@ adjacency_rule =
 	is_disabled = {
 		OR = {
 			has_global_flag = PANAMA_CANAL_BLOCKED
+			has_global_flag = PANAMA_CANAL_IS_NOT_BUILT #TGW
 			has_country_flag = PANAMA_CANAL_BLOCKED_FOR_COUNTRY
 		}
 		tooltip = disable_canal_tt
@@ -193,6 +193,9 @@ adjacency_rule =
 {
 	name = "BOSPHORUS_STRAIT"
 
+	is_friend = {
+		TUR_gave_us_access_bosphorus = yes
+	}
 	contested =
 	{
 		army = no
@@ -216,21 +219,16 @@ adjacency_rule =
 	}
 	neutral =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	
 	required_provinces = { 9833 11829 }
-
-	is_disabled = {
-		has_country_flag = BOSPHORUS_STRAIT_BLOCKED_FOR_COUNTRY
-		tooltip = bosporus_strait_blocked_tt
-	}
 	
 	icon = 9833
-	offset = { -2 0 -9 }
+	offset = { 5 0 0 }
 }
 
 #The Dardanelles
@@ -238,6 +236,9 @@ adjacency_rule =
 {
 	name = "DARDANELLES_STRAIT"
 
+	is_friend = {
+		TUR_gave_us_access_dardanelles = yes
+	}
 	contested =
 	{
 		army = no
@@ -261,13 +262,13 @@ adjacency_rule =
 	}
 	neutral =
 	{
-		army = yes
-		navy = yes
-		submarine = yes
+		army = no
+		navy = no
+		submarine = no
 		trade = yes
 	}
 	
-	required_provinces = { 849 6864 }
+	required_provinces = { 849 6864 9887 }
 
 	is_disabled = {
 		has_country_flag = DARDANELLES_STRAIT_BLOCKED_FOR_COUNTRY
@@ -281,7 +282,7 @@ adjacency_rule =
 #Kiel Canal
 adjacency_rule =
 {
-	name = "KIEL_CANAL"
+	name = "KAISER_WILHELM_KANAL"
 
 	contested =
 	{
@@ -306,16 +307,55 @@ adjacency_rule =
 	}
 	neutral =
 	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 317 3231 3368 6257 6389 }
+		
+	icon = 317 
+	offset = { 5 0 -6 }
+}
+#Strait of Messina
+adjacency_rule =
+{
+	name = "MESSINA_STRAIT"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	friend =
+	{
 		army = yes
 		navy = yes
 		submarine = yes
 		trade = yes
 	}
-	
-	required_provinces = { 11366 317 3231 }
-		
-	icon = 11366
-	offset = { 5 0 -6 }
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+
+	required_provinces = { 4159 9990 }
+
+	icon = 4159
+	offset = { 7 -2 4}
 }
 #Strait of Hormuz
 adjacency_rule =
@@ -355,19 +395,19 @@ adjacency_rule =
 		
 	icon = 10904
 	offset = { 2 0 12 }
-}
 
-#Strait of Otranto #TODO_Manu: TEST THIS OUT AND REMOVE IF NOT SATISFACTORY
+}
+#Gulf of Aden
 adjacency_rule =
 {
-	name = "OTRANTO_STRAIT" #TODO_Manu: Remove this loc key too if not necessary
+	name = "GULF_ADEN"
 
 	contested =
 	{
-		army = yes
-		navy = yes
+		army = no
+		navy = no
 		submarine = yes
-		trade = yes
+		trade = no
 	}
 	enemy =
 	{
@@ -390,9 +430,49 @@ adjacency_rule =
 		submarine = yes
 		trade = yes
 	}
-	
-	required_provinces = { 6979 11767 }
-		
-	icon = 6979
-	offset = { 9 0 6 }
+
+	required_provinces = { 4985 5074 8124 }
+
+	icon = 5074
+	offset = { -33 0 -9 }
+}
+
+#Strait of Malacca
+adjacency_rule =
+{
+	name = "MALACCA_STRAIT"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = yes
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+
+	required_provinces = { 12299 }
+
+	icon = 12299
+	offset = { -5 0 -7 }
 }

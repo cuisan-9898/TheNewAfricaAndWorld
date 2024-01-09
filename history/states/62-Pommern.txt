@@ -1,33 +1,20 @@
-
 state={
 	id=62
 	name="STATE_62"
-	manpower = 1006221
-	
-	
-	state_category = town
-
+	manpower = 1406221
+	state_category=large_town
+	provinces={ 349 3207 3312 3340 6282 9388 }
 	history={
-		victory_points = {
-			9388 1
-		}
-		owner = GER
-		buildings = {
+		victory_points={ 6282 1 }
+		owner=GER
+		add_core_of=GER
+		buildings={
 			infrastructure = 3
-			fuel_silo = 1
-		}
-		add_core_of = GER
-
-		1939.1.1 = {
-			buildings = {
-				air_base = 8
-			}
+			industrial_complex=1
+			dockyard=1
+			6282={ naval_base=4 }
+			9388={ naval_base=1 }
 		}
 	}
-
-	provinces={
-		349 3207 3258 3312 3340 9388
-	}
-
 	local_supplies=3.0 
 }
